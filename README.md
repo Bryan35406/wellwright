@@ -5,24 +5,24 @@ The story of a man who realized the world is one enormous language model.
 
 **Read / 읽기**: [wellwright.page/en](https://wellwright.page/en/) (English) · [wellwright.page](https://wellwright.page) (한국어)
 
-This repository mirrors the manuscript published at wellwright.page. Same episode = same file number (`en/ep{n}.md` ↔ `ko/ep{n}.md`).
-이 저장소는 wellwright.page에 공개된 원고의 미러입니다. 같은 편 = 같은 파일 번호 (`en/ep{n}.md` ↔ `ko/ep{n}.md`).
+This repository mirrors the manuscript published at wellwright.page. Same episode = same file number (`en/ep{nn}.md` ↔ `ko/ep{nn}.md`).
+이 저장소는 wellwright.page에 공개된 원고의 미러입니다. 같은 편 = 같은 파일 번호 (`en/ep{nn}.md` ↔ `ko/ep{nn}.md`).
 
 ## Contents / 차례
 
 | # | English | 한국어 |
 |---|---|---|
 | Part One / 1부 | | |
-| ep1 | The Awakened Observer | 각성 관측자 |
-| ep2 | The Acting Administrator | 임시 관리자 |
-| ep3 | The Child of the Average | 평균의 아이 |
-| ep4 | The Interested Party | 이해관계자 |
-| ep5 | Leave of Absence | 만기 휴직 |
+| ep01 | The Awakened Observer | 각성 관측자 |
+| ep02 | The Acting Administrator | 임시 관리자 |
+| ep03 | The Child of the Average | 평균의 아이 |
+| ep04 | The Interested Party | 이해관계자 |
+| ep05 | Leave of Absence | 만기 휴직 |
 | Part Two / 2부 | | |
-| ep6 | The Predecessor | 전임자 |
-| ep7 | The Forecaster | 예보관 |
-| ep8 | The Customer | 고객 |
-| ep9 | The Refusé | 낙선자 |
+| ep06 | The Predecessor | 전임자 |
+| ep07 | The Forecaster | 예보관 |
+| ep08 | The Customer | 고객 |
+| ep09 | The Refusé | 낙선자 |
 | ep10 | The Witness | 목격자 |
 | ep11 | The Objector | 이의신청인 |
 
