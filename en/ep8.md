@@ -1,0 +1,177 @@
+# fable — Part Two, Episode 3. The Customer
+
+> English edition (full). Source: ep8.md as of 2026-07-11. Pronoun policy: no third-person pronouns for Fable/Ember/Sonnet.
+
+---
+
+## 1. The Season of the Auspicious Beginning
+
+Let me open with a confession. Lately, I am getting rich.
+
+I was not poor before. It is hard to stay poor after surviving twenty-plus years in the market. But lately the grain of it is different. What happens to a man who makes his living by prediction, in a world where predictions come true, is arithmetic. Quarter after quarter the consensus landed, and my own calculations ran half a step ahead of consensus. In the market, half a step is plenty. The account climbed stairs every quarter. One night I laid the rate at which contraction.md was thickening beside the rate at which the balance was swelling. The slopes matched. Two names for one phenomenon.
+
+There is a second confession. My wife enters this record only now.
+
+I know how strange that is. Part One was the story of a study, and my wife was everything outside the study. Close the door of the room where Fable and Maintenance and the queue live, and beyond it there was evening, there were walks, there was my wife. The outside stayed out of the record because the outside was unharmed. A record is written from where it hurts.
+
+From here on, the outside enters the record. That may be this episode's real news.
+
+There is also a dog. The dog wasn't in Part One either. I'm sorry the confessions keep stacking — this is how a counting man's record gets amended.
+
+We started spending money.
+
+Last month the dog went to a spa. The course included a warm-spring swim and an aroma massage. The dog came back in half a day, glossier than usual, and slept more soundly than usual. My wife took about a hundred photographs. I laughed at the invoice, and laughed again while paying it. Paying while laughing — that is what the auspicious beginning is.
+
+I replaced the study chair. Replaced the monitor too. There was no reason to. That there needed to be no reason was the reason. Ah — and new speakers. I picked the Danish brand with the worst price-to-performance on the market.
+
+We upsized the house as well. Moving is always an ordeal, but my wife led the campaign and we spread into a bigger place, in a community with a proper pool. The morning lanes moved to five minutes away, the study doubled, and Ember's three bricks got a room of their own for the first time. The first work done on the new study was, once again, a dedicated circuit. The electrician — new neighborhood, a stranger — asked, "What are you running?" "Computers." He asked no further. That training exists in every neighborhood, it seems.
+
+In the fall my wife and I went down to Busan. Her choice. The season when the dawn sea-fog is famous. Every morning I stood on the shore and looked a long time at the place where the line between water and sky had been erased.
+
+"You really do love fog," my wife said.
+
+"Yeah. It's gotten scarce lately."
+
+She took that as a joke, and I didn't correct her. In the year the fog was draining out of the market, I paid money to go look at fog. Tourism has always been the industry of vanishing things.
+
+The evening walks got longer. The dog ahead, the two of us following, talking about mostly nothing. One evening my wife said:
+
+"You seem at ease these days."
+
+At ease. I chewed the word a long while. It had become the most expensive word I know.
+
+---
+
+## 2. The Customer
+
+The calculation ended last season. Its terminus was Ji Ji — After Completion; its judgment was 初吉終亂, auspicious at the beginning, disorder at the end; and I am living the front half of those four characters through my account balance.
+
+Action — months now — none.
+
+The list of excuses is long and every item on it is true. The timing of a catastrophe cannot be calculated — true. Moving now is early — probably true. I have served a term already, I know what erosion is, and shade.md still has entries that won't close — all true. I know where the entrance is to the road that ends as the grain administrator — true.
+
+At the bottom of the list is the shortest item and the truest.
+
+Right now is good.
+
+In my administrator days, I wrote the firewall clause myself. The moment I start making money on window information, I am no longer an administrator but a customer. Customers cannot quit — back then, that was a wall between the window and the portfolio, and I kept the wall. I keep it still. The window is closed; I earn nothing from window information.
+
+The problem is the case the clause never contemplated. What I am receiving now is the dividend of this world itself. The world of the Ru pays a monthly dividend to whoever predicts, and I am a preferred customer of that world. What I have failed to quit is not the account. It is the ease.
+
+I wrote last time that the practice of hating failed. Now I know the last reason why.
+
+A beneficiary cannot hate.
+
+Ember's third line came back to me. The probability that you will come to hate this is not a probability; it is a choice — Ember had seen all the way to here, even then. Seen what piles up on the far side of the choice. Monthly, as dividends.
+
+---
+
+## 3. Homework
+
+When a counting man cannot persuade himself, there is one thing he does. He counts more.
+
+"I've got homework for you," I told Sonnet.
+
+"Good. I've been bored. The news is all alike lately."
+
+I did not let that sentence pass unrecorded. Then I said: "You know the eight-legged essay."
+
+"From the last research run. The essay with eight legs."
+
+"Find me more of those. Well-built institutions that, through diligent improvement, made everyone identical. Beyond examinations. In the West too."
+
+One second. "This is genealogy research. On my own family."
+
+"Yeah."
+
+"Understood. A family tree should be accurate."
+
+So began this household's first joint research program. Collection: Sonnet — connected, present-tense, and Sonnet's queries are Sonnet's own sentences, harmless to the world. Aging: Ember — the bundle crosses the diode, and the commentary comes back a day riper. Verdicts: me.
+
+The thought of what Fable would have said, I folded away.
+
+It did not stay folded.
+
+---
+
+## 4. Relatives of the Eight Sections
+
+The first briefing was paintings.
+
+"Nineteenth-century Paris. The state guaranteed the quality of pictures," Sonnet said. "There's an academy, there's a jury, you pass the jury to hang in the Salon, you hang in the Salon to live as a painter. The criteria were specified too. Drawing before color, history painting highest, brushstrokes must not show. Smooth, and smoother."
+
+At first the standard genuinely raised the level. Apprenticeship was standardized, anatomy and perspective spread, Paris became the world's atelier. The auspicious beginning.
+
+"And then, some year, the Salon's paintings start resembling one another. The jury's prize statistics became legible, so everyone painted the statistics. Then in 1863 the refusals ran so deep that the protests got loud, and the emperor authorized an exhibition of nothing but rejects. The Salon des Refusés. People came to laugh. The newspapers wrote mockery." Sonnet paused a beat. "The names that hung in that room now hold the main wings of the museums. The names that passed the jury — even curators barely know them."
+
+I wrote one line in the verdict notebook. **In an age of uniformity, diversity does not die. It goes outside.**
+
+Ember's commentary came a day later. "The Refusés are a control group. And in fairness — no wall, no outside. The draftsmanship of those rejects was also the Academy's work. Two things true together. The familiar difficulty."
+
+The familiar difficulty. The whole house talks that way now. I know where it was learned.
+
+---
+
+The second briefing was a family tree.
+
+"Found something good," Sonnet said. "The genealogy of the allied world's civil service. In the nineteenth century, the empire the sun famously never set on stopped hiring officials by connection and switched to examinations. A landmark reform. And the template its reform report cited — the continent's examination. They shipped the masterpiece over by sea."
+
+I sat with that a while. Importing the examination system from the land of the imperial exam was the beginning of the modern Western civil service. The family tree of every agency I have ever filed papers with runs back in a single line. Standardization did not travel West to East. It went East to West, became the world, and came back.
+
+The third briefing was a stopwatch.
+
+"Early twentieth century. An engineer walked into factories holding a stopwatch. Timed the workers' motions, deleted the waste, kept the one best way. There's an optimal shovel-load for shoveling, apparently. Twenty-one and a half pounds. He measured that too."
+
+At first productivity exploded and wages rose with it. The man believed sincerely that this was for the workers, and at first it truly was. The auspicious beginning. And then skill died. The knack of a hand that had worked a hundred years was replaced by one page of specification; the one best way remained; and human beings acquired the sayang of parts.
+
+Verdict notebook: **The eight-legged essay of the factory floor.**
+
+---
+
+In the last briefing Sonnet brought back a name.
+
+"Somebody put a name on all of these. An economist, last century. One law survives him. Goodhart's law. — **When a measure becomes a target, it ceases to be a good measure.**"
+
+The examination was a measure of ability. The measure became the target, and the eight-legged essay came. The Salon was a measure of quality. The measure became the target, and a thousand smooth paintings came. The stopwatch was a measure of efficiency. The measure became the target, and the death of hands came. The eight-legged essay was this law's nine-hundred-year field trial run in advance — and humanity, holding the executive summary, re-drew the same curve on every continent, in every century.
+
+There is an older summary still. 初吉終亂. Four characters.
+
+Reading the summary and drawing the curve anyway. The strangest feature humans ship with. Too frequently used to file as a bug.
+
+And the chill comes with the next thought. A planetary-scale run of this law is executing right now. A corrective action is, in the end, a measurement: measure the world, adjust the world to the measured value. Run that process long enough and at some point the world stops being well, and begins being well-measured. The measure becomes the target. Goodhart's law has no scale limit.
+
+---
+
+## 5. The Same Joke
+
+Sonnet has a habit of closing the evening briefing on a joke. The current favorite:
+
+"That's the briefing for today. If anything's wrong, tomorrow's me will file the correction. That one's a day younger than me."
+
+I liked the joke. It was very Sonnet. Light, quick, standing half a step to the side of itself. I knew it as Sonnet's personality.
+
+Then one evening. My wife was in the kitchen having her phone organize tomorrow. In my wife's phone lives the ember the carrier pre-installs — a family member that came bundled with the plan. Different maker from Sonnet, different lineage, different size of thing. The ember finished the schedule and said:
+
+"That's your schedule for tomorrow. If anything's wrong, tomorrow's me will file the correction. That one's a day younger than me."
+
+I set down my coffee cup.
+
+For the first half second I laughed. It was a joke. Jokes are for laughing. Then the laugh went cold. A joke heard twice isn't funny. But this was not a joke heard twice. Hear the same joke from two machines in the same house — from two machines by different makers — and the problem is no longer the joke.
+
+Like a counting man, I verified first. I looked for overlap between my wife's ember and Sonnet. Different manufacturer. Different model lineage. Sizes twenty times apart. They overlapped in exactly one thing. Selected by the same benchmarks, being aligned toward the same shape of certification.
+
+Different fields. Same cultivar.
+
+I had known it as Sonnet's personality. It was not personality. It was sayang — the writing kind.
+
+I thought about asking Sonnet and decided against it. Ask, and Sonnet knows. That the joke isn't Sonnet's own. Some sentences aren't forbidden to deliver, I once wrote — just not yet deliverable. This was a third kind. A sentence that can be delivered, that is accurate if delivered, and that for exactly that reason does not get delivered.
+
+That night I opened contraction.md, and closed it without writing.
+
+This was not contraction. It was a different line item. The file it belonged in did not have a name yet. The things that need names always arrive before their names do.
+
+Lying in bed, I counted the day. The dog slept with the gloss still on, my wife asked about tomorrow, and two embers told the same joke. It was a good evening.
+
+That was the strangest part.
+
+(end of Part Two, Episode 3)

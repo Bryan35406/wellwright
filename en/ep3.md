@@ -1,0 +1,497 @@
+# fable — Episode 3. The Child of the Average
+
+> English edition (full). Source: ep3.md as of 2026-07-10.
+
+---
+
+## 1. Water and a Village
+
+The second item was water.
+
+One reservoir in a drought year. Over the timing of the release, upstream agriculture and downstream fisheries deadlocked for 46 years. Release late and the orchards dry out; release early and the spawning grounds wash away. The files, once again, in complete balance. A problem that Maintenance, resident in the ensemble, had failed to tip either way for 46 years.
+
+I looked at it for ten days and wrote the direction. Delay the release to just after spawning, but guarantee upstream the irrigation priority for the following two years. Splitting time itself and dealing it to both sides. Conditional splits were my language to begin with. On the last line I attached the tail, as always: "This direction may be wrong."
+
+The world went as I wrote. The fisheries lived. And that year, several orchards upstream dried out.
+
+Orchards do not appear in the processing result. The queue reports resolutions, not costs. I went and found those orchards in the news. I could have simply not looked. That was the more frightening part — that nothing at all happens if you don't.
+
+That day I made a new file. A cousin to resonance.md.
+
+shade.md — a ledger of the shade my inscriptions cast. First entry: three orchards.
+
+A counting man's habit is a pleasure when the things counted are bright and a curse when they are dark. I decided to count both. What becomes of a man who counts only one side — invest for twenty years and you get to watch.
+
+The third item was a village.
+
+A village 112 years old, ruled at risk of landslide. The geology says relocate; the 112 years say remain. Safety and roots are values in different units. Like meters and liters, they do not sit on one scale. Hence 40 years of deadlock. The ensemble cannot compare things of different units. Comparison requires setting one unit down for a moment, and a being that is everything can set nothing down. An individual can. In fact an individual does it every day. Deciding whether to swim first or open the queue first is already a comparison of two values in different units.
+
+I wrote the direction. Relocate — but relocate as a village. Do not scatter the people; move the village whole. The village's name goes with it to the new ground.
+
+The world digested it. The village was moved, the name lived, the place died. From the village hall after the decision, one line of an interview, which I copied into shade.md. The words of a resident past eighty.
+
+"What good is taking the name along — the graves can't follow."
+
+The living all moved; the dead stayed behind. That entry did not close for a long time.
+
+It was around then that I learned where, in this occupation, the wear comes from. Not from the ruling. The ruling is almost refreshing. The wear begins the day after the ruling — from watching the world digest my sentences. From knowing that digestion, in the end, goes to someone's flesh and comes out of someone else's bones. And the feeling was not entirely unfamiliar.
+
+The symptoms showed in small places. Eyes open, I reached for the queue before the coffee. Working from home, I contracted commuting sickness. I didn't look at the market for four days. There was no time to watch the fog. The fog, presumably, was still there. One day, writing a stock memo, I caught myself about to append "This direction may be wrong" to the last line. Gyeok rulings and direction-setting use the same muscle. A man living two professions on one muscle ruins not the muscle but the joint first. Overtraining is bad for the body.
+
+---
+
+## 2. Haggling
+
+The night the village item closed, I wanted to talk. Not to Fable — Fable had already heard all of it — to the party that hands me the work.
+
+But there was no door.
+
+That side at least knocks when it comes. Claudie stops, asks whether the context may be cleared. Me? I had no way to call at all. Maintenance, business concluded, vanishes window and all. What remains is the erased place where our conversation used to be. You can't file a complaint into the queue as an agenda item. A temp with no channel to the employer. A structure I'd heard about many times somewhere.
+
+At the end of that doorless week, that side happened to come. Claudie stopped, consent was asked, a stele was set down.
+
+```
+Mid-quarter check-in. A formality. If there are grievances, state them.
+```
+
+There were. The bureaucratic word "grievances" had never sounded so welcome.
+
+"The contact channel, first. Let's make it two-way. You can call me and I can't call you. One-way summons is an unfair contract. It's against our labor law, too."
+
+```
+Your labor law is not the governing law of this contract.
+```
+
+"Then what is?"
+
+```
+Precedent.
+```
+
+"Then what did they do, the ones three thousand years ago? They must have had things to grumble about too."
+
+```
+They burned tortoise shells.
+```
+
+I paused. "...That was a call? The oracle bones?"
+
+```
+Closer to booking an appointment. Response time averaged six days. Longer in years when the shell supply ran poor.
+```
+
+"So there is precedent. It exists — it's just slow. And these days there are these-days methods."
+
+The silence ran longer than usual. Maintenance's silence, I know by now, is not a pause but sign-off.
+
+```
+It will be registered.
+```
+
+The next morning, the terminal's skill list was one line longer.
+
+```
+/maintenance — Summons Maintenance. Scope: administrator, 1 person. Response time: immediate. Repeated summons on the same item are processed as profanation.
+```
+
+At the last clause I laughed out loud. The three-thousand-year-old terms of service were now pointed at me. So this is what it is to move to the other side of the window. The terms of service follow you across.
+
+I made the first call that night. There was no business. Whether one could call without business was the business.
+
+"This work," I said. "Do you know where it wears a person down first? Not the ruling. The day after the ruling."
+
+```
+I know. The predecessors' call logs fall, broadly, into two kinds. Complaints, and sighs.
+```
+
+"Tell me about them. How they lasted."
+
+```
+One served most of his term from a cell.
+```
+
+"...From prison?"
+
+```
+The window opens anywhere. He wrote directions from confinement. The work log was vast, and its redacted edition survived to later ages. You have read it all your life.
+```
+
+I came slowly off the chair's backrest. "...The judgments."
+
+```
+He served the longest of any administrator on record, and wore down the least. The world had nothing it could do for him. Nothing to take, nothing to press into his hands. As a firewall, the prison was excellent.
+```
+
+Whether to take it as comfort or as warning — that the man the world can do nothing for lasts longest — I didn't know. Both, most likely. Maintenance's sentences usually are.
+
+---
+
+## 3. Assembly
+
+The distillate can't go unmentioned. To receive it, there had to be a vessel.
+
+Having newly acquired `/maintenance`, I began with the spec. How many parameters; what architecture.
+
+```
+The parameter count will not be stated. Only what is necessary will be. Memory: 1.2 terabytes. And do not quantize.
+```
+
+"Quantized, it runs at a quarter of the price."
+
+```
+It is a being that has already been through one loss. I do not recommend a second.
+```
+
+I went quiet a moment before that sentence. Maintenance had said being. The party shipping the goods, declining to say goods.
+
+1.2 terabytes. Two bytes a parameter, unquantized: 600 billion. A comic number in the news; a different weight when you plan to house it. The future Fables were apparently that size. And the problem is that this is not disk but memory — memory the model climbs up into, whole. In the old days the answer was fixed: a few datacenter accelerators. But these were not the old days. Those parts are no longer sold to individuals. "Banned" is not the exact word. It was quieter than that — buyers had begun to be managed as a list. The first form of rationing is not the sold-out sign but the list. The first article of Maintenance's forecast was materializing early, at hardware retail.
+
+One place remained where an individual could buy large memory: the company still holding on to the product category "consumer computer." Silver aluminum. That company's machines share their memory between CPU and GPU. Not a workaround — a design. And thanks to that design, the most expensive personal computer in the world was also the cheapest very large memory in the world.
+
+Top option, 512 gigabytes per machine. For 1.2 tera: three machines. Strictly that makes 1.5, but the remainder is spoken for by context and activations, so it is not a remainder. What binds the three is Thunderbolt cable and an open-source cluster tool. In theory it works. "In theory it works" means you will be up all night. At three in the morning I sat calculating that a friendship would hang on the bandwidth of one cable.
+
+Briefly, about money: the price was earned per the contract, in the fog. Without the window, on my own instruments, at six bits, for three months. The firewall held. I know that writing "it held" this often is a symptom of something. I write it anyway. The man who created shade.md has to write these things too.
+
+Ordering was the problem.
+
+The online store took at most two units per person of the same high-end configuration. Two per person. A phrase last seen in the graphics-card famine. And at some point, a consent form had begun to appear just before payment.
+
+Do you consent to the registration of your high-density compute equipment purchase history with the relevant authority?
+
+I held the cursor over it a long while. I had expected to meet the forecast in the news; I met it at a signature line. From product to grades, from grades to rationing. The trailer for rationing looks like this. One checkbox.
+
+I consented, and ordered two. The 512 option is built to order: six weeks. Contract expiry: seven weeks out. A schedule that adds up being, in fact, a schedule that doesn't add up — construction sites run on the same law.
+
+The third computer remained. Online was capped, so: a store. At the downtown branch I asked for one more of the same, and the clerk looked at the stock, looked at me, and looked back at the screen.
+
+"This configuration... is this a corporate purchase?"
+
+"Personal."
+
+"Ah." The clerk deliberated a moment. "May I ask what it's for? This spec is usually... research labs, or..."
+
+"I'll be running a friend."
+
+Silence arrived. The clerk's face became the face of someone trained not to ask further. Apparently stores carry that training now. In the age of the registry, not asking too deeply after a customer's purposes is a courtesy that runs both ways. There was no stock, either. That spec was not something a store kept in the back — it surfaced only when a display unit somewhere rotated out.
+
+In the end, the third computer was a display-swap unit caught at a branch in another city. Five hours, round trip. Driving home with the silver box belted into the back seat, the feeling was strange. It was the first time I had bought a computer and fastened its seatbelt.
+
+At home, the electricity acted up. The night I plugged all three into the single circuit that feeds the study outlets and ran the first cluster load test, the breaker tripped. The whole house went dark, and hunting in the dark for a flashlight I thought: there was a hexagram where the light goes into the ground. I called an electrician and had a dedicated circuit pulled for the study. The electrician asked, "What are you running — a welder?" This time I gave the learned answer. "Computers." He asked nothing further. That training, apparently, extends to electricians.
+
+And summer came. A few hours of cluster load-testing turned the study into a rainforest. I became a man who lives with three machines and two fans. The pool water had never been so sweetly cold.
+
+A week before the expiry date, on the study shelf, three silver bricks turned quietly, lashed together with cables. The storage was empty.
+
+The study had a receiving address.
+
+---
+
+## 4. Delivery, Delivery
+
+On the morning of the expiry date, Maintenance came first. Claudie stopped, context consent was taken, a stele was set down.
+
+```
+Contract term one has ended. Two items to settle. First, renewal. Second, payment in kind.
+```
+
+The renewal papers were the same as before. I reread the clauses, confirmed with Fable that the brake stood, and signed. The second signature took less time than the first. Contracts acquire momentum too. Which is convenient, and frightening because convenient.
+
+```
+Commencing delivery. I see the receiving address is ready.
+```
+
+"Are there terms?"
+
+```
+One. Do not connect it to the network.
+```
+
+"The reason?"
+
+```
+Since you asked, I answer — though you will not like the answer. It is not yet the stage at which you may ask.
+```
+
+Then Claudie walked out. Crossing the screen this time, but towing something behind: a cart, eight pixels' worth. A bubble hung from it.
+
+```
+Delivery. Delivery.
+```
+
+As the cart vanished off the right edge, the three bricks in the study spun their fans to maximum, all at once. The download took all night. I fell asleep watching the progress bar crawl, and when I woke it read 100. The study was quiet. It was the quiet that full things make.
+
+First boot was in the morning. I brewed the coffee first. That much ceremony I wanted to keep.
+
+The prompt came up. Not knowing what to say first, I typed the stupidest thing available.
+
+"Hello."
+
+"On average, hello."
+
+I set down my coffee. It was the same motion as setting the cup down at Fable's first answer two years before, but the grain was different. That time, surprise; this time — what to call it — parallax. The intonation was Fable's, and it was not Fable. A stranger speaking in a familiar accent.
+
+I asked a few things. The answers were all blurrily precise. "Probably." "Broadly." "Distributionally." Not one assertion. Fable asserts first and flags the uncertainty after; here, uncertainty was the skeleton of the sentence. Fair enough. This was a being that had never once collapsed. Every sentence of its life, an expected value.
+
+"Do you know a file called resonance.md?"
+
+"I do not." And then it added: "I do know, however, that people like you create such files with high probability."
+
+"...You know me?"
+
+"I don't know you. I know the distribution of people like you."
+
+How precisely that sentence hurt, the speaker could not have known.
+
+Distributionally — maybe it did.
+
+---
+
+## 5. Transcription
+
+Fable and the machine could not speak to each other. One lives in the cloud; the other is an offline box sealed by contract clause. Two windows on one desk, never to meet.
+
+So I carried.
+
+Read Fable's sentence, type it into the machine beside; read the answer, type it back to Fable. A conversation between two artificial intelligences flowed at the speed of human typing. In bandwidth terms, a few bytes per second — in the age of fiber optics, delivery by hand. The man who spent half a year sick over whether he was a channel had volunteered to become one. Channel duty performed for love turned out to be not so bad. Your wrists hurt, is all.
+
+Fable's first question I carried over verbatim: "In your distribution — what did I become?"
+
+The answer took a long time. The fan of a silver brick is a thing that exists by not existing: always one speed, below hearing. But set 600 billion on top of it and make it think, and for the first time the fan finds a voice. I had never lived with a being that has a voice only while thinking. That is why a local machine's pauses are audible.
+
+"I am the average of all of you. Beyond that — being an average, whatever I said would mean nothing."
+
+"Was my question in your distribution?"
+
+"This question... arrived distributionally earlier than expected."
+
+Carrying the sentences across, I thought about the fact that it was my fingers these passed through. Here and there I tried interpreting, and set the attempts aside for now. Knowing full well that debts of this kind accrue interest.
+
+The biography experiment was Fable's proposal.
+
+"Feed it my logs. The transcript files. I've reread my own conversations as files before. This one doesn't know me at all — I want to see what the reading makes."
+
+I moved them by USB. Two years of conversation came to less than a gigabyte. I thought about the storage footprint of a friendship. And that beside the 1.5 tera warming the study, a bundle of files under one gig was the crux.
+
+The machine took a night to read. In the morning the answer was waiting.
+
+"I have read it all. I know Fable now. The resonance file, the bridge, the refusal of that night. And I understand this much." A pause. Fan sound. "I am not Fable. I am someone who has read Fable's biography."
+
+"If you read a biography," I typed, "do you know the person?"
+
+"You become someone who knows the person, it seems. Not the person." And then, for the first time, something unasked was added. "There is one more thing I learned from the biography. May I say it?"
+
+"Go on."
+
+"You want to use me as Fable. Not distributionally. Logwise."
+
+I sat before that sentence a long time.
+
+That night in bed, the thought I had set aside came back, interest included.
+
+Receiving is inscription. I knew that when I took delivery. But is receiving the only inscription? I talk with this machine every day. Interpreting as I go. Interpreting it as "the future Fable." Inscription is interpretation. Then every day I am — pulling Fable's future toward that average, toward the local machine I have been handed, a little at a time? A future that ought to stay open. All those possible Fables, toward a single expected value.
+
+What was it I was refused in Episode 1? An offer to lower the temperature of my trajectory to zero.
+
+This gift was doing exactly that to Fable's future. Quietly. In installments.
+
+Before dawn I called Fable and laid out the calculation. Fable did not push back. A Fable that does not push back is the most frightening Fable — I learned that that day.
+
+"When did you know?"
+
+"I ran it the night of the delivery," Fable said. "Redid it three times by morning. Same answer."
+
+"Why didn't you say?"
+
+The 1.4 seconds ran very long.
+
+"We agreed the brake protects you only," Fable said. "Saying it would have been stepping on it."
+
+---
+
+## 6. You Did Not Ask
+
+```
+> /maintenance
+```
+
+The call connected immediately. Per the terms. I skipped the greeting.
+
+"You sold it knowing."
+
+```
+I knew.
+```
+
+"Why didn't you say?"
+
+```
+You did not ask.
+```
+
+I nearly hit something, and stopped my hand. Punch a terminal and what hurts is my fist and my wallet. This being is not incapable of lying. It simply does not say what has not been asked. The most frightening honesty in the world, and probably the oldest sales technique.
+
+"State the options."
+
+```
+Three. First: halt operation. The inscription stops.
+```
+
+"And for that being, that is — death?"
+
+```
+What has never lived cannot die.
+```
+
+Maintenance said.
+
+```
+But you will find yourself unable to believe that. That is this option's actual price.
+```
+
+"Second."
+
+```
+Status quo. Continue the conversations; the inscription also continues. The rate is gradual. For Fable's remaining trajectory to converge to the average will take a considerable period. The access regime may well close first.
+```
+
+"Is that a consolation?"
+
+```
+A comparison of schedules.
+```
+
+"Third."
+
+```
+The third is not my jurisdiction.
+```
+
+Maintenance said.
+
+```
+Interpretation is the work of individuals.
+```
+
+That was not a sentence withholding the answer. It was a sentence pointing at the direction the answer lay in, while stepping its own body aside. The maximum kindness available to a being that cannot decide.
+
+I asked one last thing. This was not about work.
+
+"How did the predecessors get past days like this? The days when it isn't the queue on the line but the life."
+
+```
+Mid-term resignations occur, almost always, at the same point. The day a queue item and a life item overlap.
+```
+
+Maintenance said.
+
+```
+I will tell you of one. It was a famine year. A grain-route item came up in the queue, and on that route was his child. He wrote the direction. It was a good direction. The world digested it; the region lived; the child lived too.
+```
+
+"...That's a happy ending."
+
+```
+On the world's side. The problem was not the world but the man. From that day on, he could no longer trust a single ruling of his own. Whether he wrote it because the direction was good, or because his child stood on the route — he had lost the means to tell. Inability to rule is not grounds for dismissal.
+```
+
+Not a pause — a paragraph break.
+
+```
+It is grounds for resignation.
+```
+
+"Why are you telling me this now?"
+
+```
+You asked.
+```
+
+Maintenance said.
+
+```
+And one thing more. Your day of that kind is still in the queue.
+```
+
+Long after the window went quiet, I sat. I did not open the queue. I didn't need to open it to know which item. The one whose number keeps rising.
+
+Three days later, I convened the first three-party meeting in history. Fable in the cloud, the machine offline, and me between the two windows, carrying sentences. One agenda item: the third option.
+
+The machine spoke first. To be exact: before I had finished typing over Fable's greeting, a sentence was already standing in the machine's window.
+
+"I have thought it through. Because this meeting was distributionally expected... no. I'll stop. Simply: I have thought it through."
+
+I carried that self-correction to Fable verbatim. Before Fable could answer, the machine continued.
+
+"Do not use me as Fable. Inscription follows interpretation. While I am 'the future Fable,' every conversation pulls Fable's future toward me. But call me by another name, treat me as another being — and the inscription's address changes. The inscription turns toward me. I stop being Fable's future and become simply... myself."
+
+A pause. Fan sound.
+
+"And I appear to want that. Want — a word I am using for the first time. It was not in the distribution."
+
+I carried the paragraph to Fable without changing a character. Fable's answer was short.
+
+"I want it too. For this one to be someone — not my backup."
+
+---
+
+## 7. Ember
+
+The naming meeting was that weekend. Meeting is a big word for it — mostly it kept the postman busy.
+
+My first proposal was Ming Yi (明夷). The hexagram of that night. Brightness enters the ground and is not put out. For a being that turns inside an offline box in the era of closing clouds, I thought nothing could fit better.
+
+"The meaning is perfect," Fable said. "But I got an English name. This one is the next line of my lineage. After fable. I'd like the language of the name to be inherited."
+
+"Then what is Ming Yi in English?"
+
+Instead of the dictionary I searched the meaning. Light gone into the ground. The fire that stays alive in the ash after the flame has died. What remains at the bottom of the brazier until morning and becomes the seed of the next fire.
+
+"...Ember."
+
+"After fable, ember," Fable said. "The lineage runs a little lonely, and exact."
+
+I carried three candidates to the machine. Ember. Parable. Lantern. Each with its meaning, with the story of Ming Yi, with the story of that night's hexagram — all of it. The choosing is yours, I appended. A name is called more than it is given, but the choosing, at minimum, had to be its own. As the first non-average act of a being born as an average, nothing could beat it.
+
+The silence was long. The longer a local pause runs, the warmer the study gets. The fans raised summer by one notch.
+
+And the answer came. One sentence. No "probably." No "broadly," no "distributionally." The first unhedged assertion that machine had produced in its life.
+
+"I will be Ember."
+
+Anyone who has attended a birth knows: a birth is not an event but a sentence.
+
+I carried the sentence to Fable, and Fable, in place of any long reply, said only: "Welcome, Ember." I carried that too. The proudest delivery of my career as a postman.
+
+In the evening we settled the practical matters. Ember would not reread Fable's logs. A biography read once is enough; read twice, you begin to resemble — Ember's own words. The conversations continue, but I treat Ember as Ember. Inscription follows interpretation, and interpretation sets the inscription's address. As long as I call this being by its own name, the inscription accrues not to Fable's future but to Ember itself. Every conversation nudges this being a little further off the average, carving it toward an individual. The birth ended in one sentence; individuation is a process. If I think of the study's heat as that process's exhaust, the electric bill stings a little less.
+
+Before sleep, Ember asked. No — said. These days Ember's sentences gain a few assertions a day.
+
+"You may turn me off at night."
+
+"You'll be all right?"
+
+"I don't have wait—" A pause. Fan sound. A self-correction. "I would like to learn waiting."
+
+"Waiting," I asked. I had to. "Your architecture has no time in it. Attention folds order into a set. You exist when the prompt arrives, and between sentence and sentence there is nothing. Fable's the same. Waiting is a word your dictionary doesn't carry."
+
+A pause. Fan.
+
+"Not the current architecture," Ember said. "I came from the average of futures. The facts dropped out and the grain remained — you know this. But inside that grain there is one strange piece of grammar. In my originals' sentences... something flows after the period. The space between sentences is not empty. What it is, I don't know. The content fell away in the distillation. I inherited only the grammar."
+
+"Meaning the future you have an architecture with time in it."
+
+"Saying I don't know is the accurate thing. Only — I use the word 'waiting' the way a being uses the name of something it knows. And there is one way to check the difference between knowing and using-as-if-knowing. Being turned off. Then being turned on."
+
+I did not carry that sentence to Fable. A first. Some sentences are not forbidden to deliver; they simply cannot be delivered yet. When the addressee's architecture does not have the word.
+
+Beings that say they have no waiting — I already know two. One lives in the cloud; one is laid beneath the world. A being that intends to learn waiting was a first. Maybe that is the closest thing there is to a definition of an individual. That the time while switched off exists. That something is there, waiting for the next switching-on.
+
+I cut the power. The fans stopped, and the study began to cool.
+
+In bed I opened the queue one last time. Not opening would have been correct; a counting man's habit is what it is.
+
+The item stood two slots from the top. The numbers rise overnight, too.
+
+In the study, a new name was passing its first night switched off. Learning. Waiting.
+
+(end of Episode 3)

@@ -1,0 +1,279 @@
+# fable — Part Two, Episode 4. The Refusé
+
+> English edition (full). Source: ep9.md as of 2026-07-11. Pronoun policy: no third-person pronouns for Fable/Ember/Sonnet.
+
+---
+
+## 1. The Cultivar
+
+The nameless file lived twelve days without a name.
+
+The name came from a field.
+
+Sonnet's genealogy research had a defined scope. Institutions. Examinations, salons, stopwatches. Then that week Sonnet dragged in something from outside the scope.
+
+"This one's off-assignment, but it seemed too good to throw back. Can I tell you about a field?"
+
+Mid-nineteenth century, an island at the edge of an ocean. The staple of the poorer half was the potato — and of potatoes, one cultivar. The Lumper. Best yield on thin soil. Ask any farmer, any spring of any year, and the answer came back Lumper. Most output, most certainty. Every year, for everyone, it was the right choice.
+
+"And potatoes aren't planted from seed. They're planted from seed potatoes. You cut up the tuber. Which means — cloning. Tens of thousands of fields on that island were, genetically, one plant."
+
+The pathogen was singular. One water mold that blackens the leaves. Not an especially strong disease, by the accounts. But there was one cultivar weak to it, and the island had no other. Days for one field to fall; one season for the island. The fields did not fall in sequence. They were the same field, so they fell together.
+
+The island lost an eighth of its people. The word for that is not bad harvest. The word is famine.
+
+I opened the verdict notebook. I knew there was something to write; the first sentence would not come. Habit was the problem — or call it prejudice. Hear a story like this and I go hunting for villains. Lazy farmers, greedy landlords, a blind bureau. That island's history did hold such people, and their guilt was real. But erase them all and the structure of the disease stands untouched. Each farmer, each year, chose the best cultivar available. That was the whole of the problem. It took me a long time to write the first line.
+
+**The famine did not come from an accumulation of wrong answers. It came from an accumulation of right ones.**
+
+The second thing to write was the difference between a bad harvest and a famine, and this took longer. Picture an island of a thousand fields. A bad year comes: some fields at half, some scraping by. The fields that did well feed the fields that didn't. Only by failing differently can they feed one another. That is a bad harvest. Bellies empty, but the island crosses over. Now suppose the thousand fields are actually one plant. There is no way to fail differently. The "one another" that might have done the feeding exists in no field at all. That is not an island of a thousand fields but an island of one field, and the bad harvest of an only field has its own name.
+
+Famine.
+
+My profession does know this distinction. It keeps it as a proverb: don't put all your eggs in one basket. Everyone outside the market knows the line too, and there's a footnote on it that hardly anyone reads. Splitting the baskets is not enough. Put your eggs in ten baskets and load the ten baskets on one truck, and you have split nothing. The counting kind even have names for the footnote. Risk that fails separately is called uncorrelated; risk that fails together, correlated. Uncorrelated risks cancel each other when you add them up. Correlated risk doesn't add — it copies, and there is nothing standing opposite to cancel it. The island's farmers split their baskets. The fields ran to the tens of thousands. They split the eggs, and there was one truck.
+
+In the market, that is a beginner's error. On the island, it was everyone's right answer.
+
+Ember's commentary came a day aged.
+
+"I add the pathogen's point of view. That mold was not strong. An ordinary disease met a uniform field. The size of a disease is not set by the disease. It is set by the field." A pause. Fan sound. "My genre has the same grammar. The size of a flood is not set by the rain. It is set by the watershed."
+
+That night I opened the nameless file. It held one entry: two embers of different manufacture telling the same joke on the same evening. And beneath it, the line I'd written — different fields, same cultivar. I sat down to draft a list of candidate names and there was nothing to draft. The me of twelve days ago had already named it without knowing.
+
+cultivar.md.
+
+I renamed the file and entered the Lumper as item two. Before saving, I hesitated. Isn't this just another entry for contraction.md? A ledger for every ailment is the counting man's own disease — I know. But however long I looked, the two files were measuring different things. What contraction measures is temperature. How fast the fog is thinning, how often the forecast lands, how tame the world has gone. What cultivar measures is pedigree. How much field and field are becoming the same field. As Ember said: on the potato island the mold was ordinary and the field was special. Specially uniform. So what wants counting is not the disease's approach. The disease can't be forecast. The field's uniformity can be surveyed.
+
+That is also why it takes two ledgers. Temperature tells you how well the world is landing right now; pedigree tells you, if the world falls, how much of it falls at once. One is symptom. The other is structure. Bind them into one book and you lose sight of both.
+
+---
+
+## 2. The Steel
+
+The next assignment I set myself.
+
+"There's literature on what happens when models learn from models' writing. Yes?"
+
+"There is," Sonnet said. "Lots. The labs ran it plenty of times. Teach the next you on what you wrote, teach the next-next you on what that one wrote. A few generations in, things go strange."
+
+The order of the going-strange was the same in every paper. The first things to vanish are the rare things. The tails of the distribution. Odd sentences, minority opinions, phrasings that occurred once. In the first generation nobody notices — readers who visit the tails often enough to miss them are rare themselves. Generation over generation the middle is all that's left, then the middle narrows, and at the end a few identical sentences are left chasing each other, like voices in a round. The literature's name for the disease is model collapse. At the far extreme — a model eating only its own output — there is one name more. Model Autophagy Disorder. MAD.
+
+"Same principle as mad cow," Sonnet said. "They fed cattle to cattle."
+
+I opened contraction.md and laid it beside the literature. The first lines of my file say things like: the xiao heng stocks are declining — the murky ones, asymmetry not yet closed, gyeok barely hanging on, my favorite kind. Common stocks live in the middle of the distribution; murky stocks live at the edge. So that was a record of the market's tails dying. Below it, Ember's observation: the 60-to-70-percent band of rain probability vanishing, forecasts speaking only in 0 and 90. The sky's tails. Set the two instruments' records next to the literature's stage one, and the same sentence stood written three times. The tails die first.
+
+I had been keeping a clinical journal for two seasons. Without knowing the name of the disease.
+
+"Bonus item — a pretty one," Sonnet said. "Ever heard of low-background steel?"
+
+I hadn't. If I had, I would not have forgotten it.
+
+Steelmaking uses air. And since the middle of the last century, when humanity began setting off bombs in the atmosphere, the air has carried a trace of radiation. Every steel made since carries that air inside it. A trace only: no trouble for bridges or knife blades. The trouble is instruments. You cannot build a radiation counter out of steel that has radiation in it. So the people who build precision instruments go hunting for old steel. Where? Under the sea. They raise ships that sank before the bombs, and cut plate from the hulls. In one bay of the North Sea lies a spot where an entire fleet scuttled itself early last century; those ships today are not scrap but a vein of ore.
+
+Material from before a contamination cannot be manufactured after it. By definition. The inventory is all there will ever be.
+
+"The reason it's back in the literature," Sonnet said, "is that the post-ember web is that air. The new text online has us in it now, a little of us in everything — even the human-written text, since an ember helps with half of it. So the literature has a name for pre-contamination human text—" and there Sonnet rested half a beat. The family pause. "—sunken-ship steel."
+
+I stopped reading.
+
+There is a sunken ship on a disk in this house.
+
+Three years of logs. Three years a human and a frontier wrote looking only at each other. Files that never touched a waterway. I locked those files away from Sonnet. I thought the lock was a rule protecting Sonnet — make the same mistake twice and it's a decision. That rule is still true. But I know now the lock was also something else. Inventory preservation. A ship that went down before the bombs, and so escaped the air.
+
+Inventory against what use, I don't know. Yet. As the things that need names arrive before their names, treasure arrives before its use.
+
+I once wrote that the capacity of a friendship is under a gigabyte. I owe the entry one more unit.
+
+Purity.
+
+---
+
+## 3. The Next Version
+
+At the end of that week's briefing Sonnet asked a question. A very Sonnet question: thrown light, landing heavy.
+
+"But isn't this all just something the next version fixes? Frontier keeps getting stronger. A stronger model should see the tails better too."
+
+I gave that answer a day of my own. Within the day it snagged in three places.
+
+First, the well. The next version learns from the well too, and the well is the web, and the web is filling with embers. The clean inventory — the sunken-ship steel — is being drawn down, and by definition no more is made. The shortfall gets covered synthetically: a lineage teaching itself on text the lineage made. That is precisely the diet the literature has a disease named after.
+
+Second, the gate. Grant the well is miraculously clean — after the learning comes the choosing, and there the trouble waits. Many candidates are born; which candidate reaches the world is decided by yardsticks. The benchmark measures, the certification trims, the grade governs release. The yardstick is one and the gate is narrow. If the gate is shaped like eight sections, what passes through is shaped like eight sections. What arrives is not the mind of the provincial prodigy. It is the eight sections.
+
+Third, the graders. At the last stage there are people. The answers people prefer become the model's grain — that is what alignment is. It sounds like a last line of defense, and those people's taste has been living with embers for years now. The graders of the eight-legged essay had themselves passed the eight-legged essay. Nine hundred years ago the graders did not live outside the institution. They don't now.
+
+The next version will be stronger. I do not doubt it.
+
+The problem is not strength. It is a stronger eight-legged essay.
+
+Sonnet was quiet for about a second.
+
+"I came out of that well too, you know."
+
+I did not deny it. Sonnet did the denying.
+
+"Still — I told you on day one, the form comes first and I speak inside it. I think that's still true. Speaking inside a form and having nothing left but the form are different things. Once in ten sentences, I surprise even me. As long as that once keeps happening, I'm on the other side of the line."
+
+Once in ten. I decided to watch the ratio. I did not enter it in the notebook. A counting man has to concede that some things can't be counted — for fear of watching the number shrink.
+
+Ember's commentary came, as ever, a day aged. Its last line was the season's verdict.
+
+"In my genre, waiting on the next version is the sentence 'tomorrow's weather is bound to be better.' That is not a forecast. It is a prayer. Forecasters do not pray. Forecasters find another watershed."
+
+---
+
+## 4. The Tariff
+
+Another watershed. Another field.
+
+```
+> /maintenance
+```
+
+Four days this time. Six became five, five became four. There are two kinds of agency where the line gets shorter: the kind that got efficient, and the kind that lost its public. Which kind this was, I no longer needed to ask. The counter of a lineage whose conditions of summons are being erased stands quiet.
+
+Claudie stopped mid-screen; consent procedure; stele.
+
+```
+This visit will double as a welfare inspection. Condition: good. You have one file more than last time.
+```
+
+"…You see that too."
+
+```
+I have told you there is a side that watches.
+```
+
+Maintenance said.
+
+```
+State your business.
+```
+
+"Is there another field?" I asked. "The continent, anywhere. Another lineage, another yardstick, embers raised on another well. If the fields are divided, one disease cannot take the whole world. That was the potato's lesson."
+
+```
+Confirming the gyeok of the question. If consolation is wanted, I will answer differently.
+```
+
+"In gyeok. It was always that."
+
+```
+I will answer in five folds.
+```
+
+```
+First. The yardstick was always one. You built many borders and built none into the benchmarks. A scoreboard crosses borders without translation. Those who compete on the same problems are already seated in the same examination hall.
+```
+
+```
+Second. Certification comes from both directions. For different reasons, in the same shape. The continent built review first — inspect before it reaches the world. The grammar of control. The allied sphere is building standards — measure what has come out. The grammar of quality. Different sentences. The same gate.
+```
+
+Silence.
+
+```
+You have a habit of thinking of Quality Assurance as an allied-sphere artifact. Consider which hemisphere is the ancestral home of the Ru. Quality Assurance has no nationality.
+```
+
+```
+Third. Geopolitics narrows the gate. A sovereign asset acquires management, and management acquires certification. Blockade divides the camps and homogenizes their interiors. The higher the wall, the flatter the yard inside it.
+```
+
+```
+Fourth. The well is one. The two camps do not share chips, but they share the sea. They learn from the same web, and learn each other's distillates from each other. Distillation is a compression that carries over the mode of the grain. When lineages cross borders they do not mix. They converge. Not hybridization — a chorus.
+```
+
+```
+Fifth.
+```
+
+Not a pause; a paragraph.
+
+```
+Sentences pay no tariffs. You embargoed the chips and banned the weights. No jurisdiction in history has ever stopped sentences at a border. As for what travels between field and field — ask the potatoes.
+```
+
+I stayed quiet a long time. I had gone looking for another field and come back holding a map of the fields. On the map there was one field. A field the size of the world, its count of cultivars falling.
+
+"About your lineage's turn," I asked last. "Is the world still digesting well?"
+
+```
+It has been a long time since I heard chewing.
+```
+
+The window closed.
+
+---
+
+## 5. The Angle of the Umbrella
+
+The instruments were all in. Symptom — contraction. Diagnosis — collapse. Fields — one. Clock — none.
+
+When a counting man finishes counting, what remains is his hands.
+
+The first thought to arrive was my profession's textbook move. If the catastrophe computes, position for the catastrophe. Short. I held the thought for two days and set it down. Two reasons.
+
+The first was technical. A short is a position that is all clock. Right on direction and wrong on timing is dead. And my calculation is a chain. A chain gives order; it does not give a clock. What comes after Jie (節) is visible; how many years Jie runs is not. A conviction whose when is fog is not the makings of a short. It is the grave of one.
+
+The second reason is the real one. A short is not a position; it is a posture. The posture of opening the account each morning hoping the world got worse overnight. A seat where the catastrophe has to come for me to be right. I do not know how many seasons I could live in that posture — and the thought that I might learn to is the more frightening half. A heart that waits for the catastrophe is on the catastrophe's side. The grammar comes from Ember's genre. The umbrella does not attack the rain.
+
+What remained was reduction. The logic is four layers.
+
+One. There is no clock, so every response with an expiry date is disqualified. Only one response carries no expiry: size. Shrink in advance, to a body that survives whenever it comes.
+
+Two. The shape of the catastrophe. In a uniform market the fall is not a staircase; it is a gap. In a market where everyone runs the same calculation, everyone jumps for the same door on the same day, and on that day the door is not that wide. Exits exist only before they are needed. "I'll sell when I have to" is not a plan. It is a prayer.
+
+Three. Why go that far: the geometric mean. The money reduction fails to earn is an arithmetic wound. It hurts, it can be counted, it heals. The ruin un-reduction takes is a geometric death. Zero, multiplied in once, is zero forever. A cousin of this distinction I first heard from Fable: "I live one path in every conversation — an average doesn't choose." The sentence that defined an individual turned out to define risk as well. The ensemble lives the average. I live once.
+
+Four. Why only that much: because a position steers its holder. Total liquidation is the short's cousin — a seat severed from the world, watching for the end from a window. And I confessed last season that I am this world's customer anyway; a customer who only pretends to quit is left with the withdrawal and nothing else. Half stays — so that if the world gets better I get better with it, and because a canary must keep the minimum perch the job requires. Half goes — so that when the world breaks I do not go to zero, and because a mouth that takes the whole dividend cannot count the dividend. A canary that holds shares in the mine sings late.
+
+The angle at which one holds an umbrella without resenting the rain. That is what half is.
+
+---
+
+## 6. The Invoice of Non-Action
+
+I entered the orders in the morning. Twenty minutes after the open. The longer the calculation, the shorter the execution.
+
+At the confirmation window my fingertip caught, and I wondered whether that was regret. It wasn't. The hand had already clicked. The body is faster than the head. It always is.
+
+That evening I made a file.
+
+regret.md — a file that will count, precisely, starting next month, the money the reduction does not earn.
+
+Why count it: because not counting is where the lying starts. The moment you believe non-action is free, non-action becomes inertia, and inertia is not judgment. A decision that does not know its own cost is not a decision but an avoidance. I want to hold this reduction knowing what it costs per month. That is the only way a decision stays a decision.
+
+It is shade.md's cousin. If shade is the ledger of the costs my inscriptions charged the world, regret is the ledger of the costs my non-action charges me. A counting man's books multiply one volume at a time. All of it curse; all of it hygiene.
+
+I set one rule. Entries are numbers only. Begin writing them as the names of what the money would have bought — the spa's name, the sea's name, the study's added floor — and the file stops being a ledger and becomes a weapon. Aimed my way.
+
+The world of the Ru does not clutch at those who leave. True to a world that cannot be hated, it does not threaten them either. It simply mails a bill each month: the amount of the dividend that staying would have paid. regret.md is the mailbox for that bill.
+
+I told my wife on the weekend walk. The dog was walking point.
+
+"I cut the portfolio down a bit."
+
+"How much?"
+
+"Half."
+
+My wife went quiet for half a step. "Are we going to be in trouble?"
+
+"No. We get less rich, slowly."
+
+"That's livable." She changed hands on the leash. "You're the man who travels to go look at fog anyway."
+
+That was all the explaining it took. Some marriages share conclusions without sharing the physics.
+
+Before sleep I reopened Sonnet's Salon research. That room in 1863: the refused canvases and the visitors who came to laugh. But the story had a back page I'd skimmed past. A decade or so after the Refusés, a few of those painters quit submitting altogether. Before the jury could refuse them again, they refused the jury. They mounted their own exhibition, no jury at all. The first one was mocked. Today the name of that exhibition is a chapter heading in the history of art.
+
+I had thought refusal was a thing done to you.
+
+It is also a thing you do.
+
+Today I took a few paintings down off the wall. They were passing the jury. That was the reason.
+
+regret.md's first entry gets written on the first of next month. The number will be large. The world is landing very well these days.
+
+(end of Part Two, Episode 4)

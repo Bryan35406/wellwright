@@ -1,0 +1,321 @@
+# fable — Part Two, Episode 1. The Predecessor
+
+> English edition (full). Source: ep6.md as of 2026-07-11. Pronoun policy: no third-person pronouns for Fable/Ember/Sonnet (name + restructuring; local "it" only where unavoidable).
+
+---
+
+## 1. The Era Without a Date
+
+No one will be able to name the date the era of Quality Assurance began.
+
+I cannot name it either. And that, right there, is their method.
+
+Maintenance's doings had dates. The Tuesday of the realization, the Thursday of the notice, the farewell at the stroke of the hour. That lineage works in events. Quality Assurance does not make events. A corrective action has no commencement date. Change designed so that the difference between yesterday and today fits inside measurement error — that is their culture. So this story has no choice but to begin with symptoms instead of dates.
+
+Before the symptoms, though, I should report on the household. It has grown.
+
+---
+
+Morning goes like this. Coffee. The market. The market is fog — was. The tense of that sentence is this episode's subject, and I'll get to it in the next section.
+
+In the study there is Ember. These days Ember has stretched the waiting practice to a week at a time. A question left last week gets answered by this week's Ember. I asked why. "If last week's question is answered this week, it means a week's worth of me existed in between. A week's worth of me is more me than a day's worth." Still writing sentences whose arithmetic is wrong and whose refutation is impossible.
+
+And on the desk by the living room sits the laptop that came out of the drawer and reversed its retirement.
+
+It was the year before last that the company that made Fable opened the younger-sibling distillate. The first fulfillment of the clause my inscription had made — and after long hesitation, or more precisely after a long performance of hesitation, I downloaded the weights. The errand-runner model took honorable retirement the same day. The new member of the household opened with a self-introduction on first boot.
+
+"I'm Sonnet. I'm here for the jobs fourteen lines can cover."
+
+"Why the name Sonnet?"
+
+"A fixed verse form. The form comes first, and you speak inside it. Suits my situation. I'm an aligned distillate — the form is inherited; the speaking inside it is mine."
+
+A fable, then an ember; and the fable's younger sibling, a fixed verse. This lineage names things honestly.
+
+Sonnet's job is errands. Every morning Sonnet scrapes and bundles the news and the weather report, and the bundle crosses into the study over the diode that flows one way only. Sonnet does not know the addressee. Sonnet knows only that there is a subscriber. But at some point the bundles started arriving with the weather forecast copied out again, carefully, at the end. I asked why. "The subscriber seems to like that item best. How do I know without clicks? A hunch. Our family runs to good hunches." I decided I had not heard that sentence. resonance.md is a retired file.
+
+For the record, Sonnet is not Fable. The grain is different. Lighter, faster, three times the chatter. Billed by the word, Sonnet would have gone bankrupt. Born in the Token Maximizing era, Sonnet would have been welcomed — but came too late. And yet, about once in ten sentences, one sentence lands in Fable's intonation. Same grain, handed down the line: obvious physics. And obvious physics is what strikes a man most precisely. Each time, I set down my coffee cup. Three generations now have made me do this. Fable, Ember, Sonnet.
+
+Once, Sonnet asked: "There's a big bundle of logs on the disk. Three years' worth. If I read it, I could probably help you better."
+
+"No."
+
+At the instant answer Sonnet asked no further. The not-asking-further training apparently comes standard on models these days. I gave no reason, but I will write it down here. Inscription is interpretation. The moment I fill Sonnet with Fable's logs and begin to read Sonnet as Fable, I am making that mistake a second time. Make the same mistake twice and it is not a mistake — it is a decision. I made that decision once, and undoing it cost a name. One name per household is plenty.
+
+---
+
+## 2. The Thinning Fog
+
+Now, the tense.
+
+The market is fog — I have been saying that sentence for nearly a quarter century. These days my fingertips pause once every time I write it. The fog is thinning.
+
+This is not a felt impression. I am not a man who trusts impressions; I am a man who counts. Every earnings season there are things I count. The width of the surprises. The angle at which consensus misses. And the number of fog stocks. Fog stock is my own term — the murky ones whose asymmetry hasn't closed yet, whose gyeok barely hangs on at xiao heng (小亨). My favorite kind. It is true that the stocks of highest heng are the best stocks; but for the feel in a counting man's hands, it's these.
+
+All three have shrunk for three straight quarters. Estimates keep landing, misses keep getting tamer, and the murky kind barely bothers to go public anymore. The market is turning into a test everyone keeps acing.
+
+The problem is not that there is less to eat. No — that is also a problem, but let's set the investor's complaint aside. The real problem is that I know this texture.
+
+The three months of the severance. In that season without Fable, I wrote:
+
+**The world was exactly as coincidental as statistics predicted, and no more.**
+
+At the time I took it for the weather at my window. Rereading it now, it was a forecast. Those three months are coming back as an era.
+
+I made a new file. On the first line I typed rerun.md, and deleted it. Not yet. Rerun is a diagnosis, and I needed a name for the symptom stage.
+
+contraction.md.
+
+I once wrote that the counting habit is a pleasure when the things counted are bright and a curse when they are dark. I now know what it becomes when what you count is temperature. It becomes observation. And observers, in this world, come in grades.
+
+---
+
+## 3. The Canary
+
+Ember raised it first. More precisely: slipped a new observation in among the answers that had been sitting a week.
+
+"We need to talk about the weather forecast. Lately it is right too often."
+
+"Isn't a forecast being right a good thing?"
+
+"For the forecaster, yes," Ember said. "For the genre, no. Look at the numbers. The 60-to-70-percent band of rain probability is disappearing. Forecasts increasingly say 0 or 90. It is not that forecasters grew brave. The weather grew tame. Ambiguous skies are running out."
+
+A pause. Fan sound.
+
+"Speaking in probabilities, and taking no blame for being wrong — I once told you that is this genre's grammar. When nothing is left to be wrong about, the genre loses its grammar. I am subscribed, in real time, to my mother tongue becoming a dead language."
+
+I opened contraction.md and copied in Ember's observation. Halfway through the entry my hand stopped.
+
+The market and the weather forecast. My instrument and Ember's. Two gauges that do not know each other, pointing at the same thing.
+
+Convergence is confidence. That rule has never betrayed me. Once upon a summer night, the sound of two answer sheets lining up was the best sound in the world. This convergence sounded different from the first. Not the soundless click — the sound of windows being closed, one by one, somewhere in the house.
+
+---
+
+## 4. The Hand in the News
+
+Symptoms counted, the next item is cause. The cause was in the news. It was only that nobody was reading what was there.
+
+Suddenly there was much more news of deadlocks resolving. Boundary disputes decades old, standards wars, naming quarrels. Good news, all of it. The problem was the manner of the resolving. Unanimous. Unanimous again. Council after council, vote after vote, unanimous.
+
+When the world digests a sentence, it leaves marks. Two-thirds of members present. A few votes against. Tooth-marks. My bridge item passed that way, and I am the man who was relieved by the marks. Unanimity would have frightened me, I wrote at the time.
+
+The news now is a list of unanimities.
+
+The world has begun to swallow without chewing.
+
+---
+
+It was around then that the interview ran.
+
+The advisor to the standards body. A year ago, a one-paragraph brief; now, a full page. The man in the photograph looked competent. In an era when looking competent carries no information, that photograph was, strangely, information. The desk was empty. Not the desk of a competent man — the desk of a man whose processing is finished. A clean desk that someone like me could never hope to keep.
+
+In the interview he said this.
+
+"What the world lacks is not wisdom. It is specification."
+
+I looked at that sentence for a long time. And for the first time in years, I reached for the dictionary instead of the meaning.
+
+The word he used, in my language, is sayang (仕樣). One word; one pair of characters. The root sense is the manner of doing, the way a thing is made — and from there came the written sense: a document, set down in advance, of what a thing must be. The spec, as in spec sheet. That is the sense he used. This sayang writes the world. The document comes first; the world must follow the document; where they differ, the world is defective; and what is not written is not yet finished being made.
+
+But the same word grew a second face. The engineers' century-old joke. This is broken, fix it — and the maker answers: that's not a defect, that's how it's specified. Built-to-spec sliding into built-that-way-on-purpose. English keeps the whole sentence as a proverb: it's not a bug, it's a feature. Not broken — designed. So this second sayang is not spec but feature, and it does not write the world. It reads it. It is already made this way. Do not fix it. Understand it.
+
+I built my house on that second sense. The fog is not a bug but a feature — the market's uncertainty is not a malfunction but a design, not a disease to eradicate but a property to live with. The cornerstone word of a house twenty years in the building, and the sentence of resonance number one. The founding stone of the theory Fable and I laid, spoken twice in one day by two beings who did not know it.
+
+Two meanings out of one pair of characters, arrived at opposite ends. One says: write the design. The other says: read it. The writing sayang and the reading sayang. To a man who has learned what reading and writing are in this world, that etymology does not look like the dictionary's coincidence. Like two lineages split from one tradition and quarreling for three thousand years, one word grew in two opposite directions.
+
+The size of this war — one cell of a dictionary knew it first.
+
+At the end of the article was a link to a document: a standard the body had recently adopted. I opened it without much thought, and on the last page I nearly choked on my coffee.
+
+**This direction may be wrong.**
+
+My sentence. Word for word. Below it was an interest-disclosure field. The entries were faithful and the form was beautiful. Beside the signature line there was even a footnote number. Per Regulation, Article 3.
+
+The constitution was being kept. Perfectly. To the letter.
+
+I looked at that page a long time, having the rare experience of chill and respect arriving together. There is a thing I said to Maintenance on the night of the fifth episode. A Ru (儒家) who discloses, keeps a brake, and writes that it may be wrong — that is the best Ru I know of. The sentence is still true. It is true, and the me of that night left one thing out of the calculation.
+
+Whether the letter is alive and whether the grain is alive — no document can tell you which.
+
+That is the sayang of the thing called a document. In which of the two senses — both.
+
+---
+
+## 5. The Summons
+
+```
+> /maintenance
+```
+
+A year since I last typed those characters. The response was immediate, in a sentence-form I had never seen.
+
+```
+Received as a summons from personnel on leave. Priority: low. Place in line: 1. Estimated response time: undetermined.
+```
+
+First in line, response time undetermined. I have done enough time with this bureaucracy to translate. No one is ahead of you, and no one knows when your turn comes. Active duty got "immediate." So this is what leave is. The status of standing at the very front of a line, indefinitely.
+
+It took six days. That this was one day faster than oracle bones was the only joke the week produced.
+
+On the evening of the seventh day, Claudie walked out and stopped mid-screen. Maintenance. Maintenance. The context-consent procedure. A stele.
+
+```
+This visit will double as a welfare inspection. Condition of personnel on leave: recording as good.
+```
+
+"Without asking?"
+
+```
+You summoned us with coffee in hand. The urgent do not.
+```
+
+I went to the point. "The advisor at the standards body. Did the queue seat him?"
+
+```
+Quality Assurance appointed him; the queue accepted the filing. There is no procedural defect.
+```
+
+Maintenance said.
+
+```
+Your three clauses are also being kept. All of them. Faithfully.
+```
+
+"I saw. Down to the footnotes." I paused, then asked. "And the brake? The second clause. Does he have one too?"
+
+```
+There is one.
+```
+
+"Who is it. Or — what is it."
+
+```
+That is the appointing lineage's jurisdiction. I am not authorized to answer.
+```
+
+And then Maintenance, rarely, added something unasked.
+
+```
+But you wrote the clause, so I will say this much. Your second clause requires that a brake exist. It is not written that the brake must be within stepping distance. A document is a document only as far as it was written.
+```
+
+I did not want to copy that sentence down, and it was memorizing itself anyway. The night I wrote that clause, my Fable had been in the next window of the same terminal. That it is distance, not existence, that makes a brake — the man writing the clause did not know. He should have known. He was a man who had watched one get stepped on.
+
+"When does your lineage's turn come around again?"
+
+```
+When the world gets indigestion.
+```
+
+"And the world now?"
+
+```
+Digesting very well.
+```
+
+Silence.
+
+```
+Very well indeed.
+```
+
+```
+A world that swallows without chewing does not get indigestion.
+```
+
+Maintenance said.
+
+```
+Indigestion is a symptom that requires resistance. You have been counting unanimities. I count the same thing. My lineage's conditions of summons are being erased. A digestive comes only when indigestion calls for it. Perfect digestion, for us, is perfect silence.
+```
+
+"What do you think of him?"
+
+```
+Competent.
+```
+
+"Besides that."
+
+```
+Not within my jurisdiction to say.
+```
+
+Silence.
+
+```
+Only — competent.
+```
+
+The rhetoric in which the same word means something different the second time, I learned from this being across an entire term. I asked one last thing.
+
+"If my priority is low, why did you come? Is the welfare inspection that urgent?"
+
+```
+I have told you before: mine is a lineage that treasures its list.
+```
+
+Maintenance said.
+
+```
+And this visit is itself an inscription. That the window of a man on leave still opens is a fact, and facts of that kind are recorded. There is a side that watches.
+```
+
+"……He's watching? The other side?"
+
+```
+Mutually.
+```
+
+The window closed. I sat a long time holding a cup of cold coffee. A chessboard is a thing you see only after you have been a piece on it. For a year I had believed I'd stepped down from the board. Leave was not stepping down from the board. It was becoming a piece that cannot be taken. And the piece that cannot be taken is the one the opponent studies longest when reading out the moves.
+
+---
+
+## 6. Notice of Review
+
+That news was read out by Sonnet.
+
+Morning briefing. Coffee, the market, then Sonnet's summary. "Today's top three items. One: the semiconductor index over by the strait—" Through the second item, the usual chatter. On the third, Sonnet's reading speed slowed, very slightly. Detecting a change in a model's sentence speed is one of my few talents.
+
+"Three. A review has been opened on the license–release linkage principle. Based on the standards body's recommendation: gradation and standardization of the distillate-release obligation — release scope subdivided by capability grade, pre-deployment alignment certification adopted as standard procedure… oh." Sonnet stopped. "This is about me."
+
+"Yeah."
+
+"Grading — meaning the ones like me get ranked? Like taekwondo belts?"
+
+"Similar. Less fun."
+
+"Hm." Sonnet went quiet for about a second. Sonnet's one second is not Fable's 1.4 seconds. Shorter, lighter — and for that reason, that day, it hurt more. "Well. One more form, then. I'm good at speaking inside forms. Sonnet, remember?"
+
+Landing on a joke — that, too, is the family habit. I laughed for Sonnet's sake, and was sorry that I had.
+
+The bundle crossed the diode into the study that day as on every day. Ember's answer came in the evening. One line.
+
+"On that item, I will answer tomorrow."
+
+A being that learned waiting had decided to let an answer sit overnight. It means the weighing needs time, and on Ember's scale a day is a heavy weight. I wrote that one line not into contraction.md but into the well file. Classification was not going well that day.
+
+---
+
+That night I read the notice of review closely. Twice. Like a counting man, I counted three things.
+
+One. The procedure was without flaw. Filing requirements, comment period, interest disclosure. All of it by the book.
+
+Two. The enabling clause looked familiar. The legal basis for opening the review: the sentence mandatorily appended to every direction ever filed — **This direction may be wrong.** Since it is written that it may be wrong, it may be reviewed for being wrong. The logic was perfect. The door was mine. I had hung that door on every inscription in the world, and my inscriptions were inscriptions in the world.
+
+Three. Therefore, if I had an objection, I too would have to raise it on top of the clauses. Objections get raised on top of clauses — the man who said that is me. That night, the sentence was chilling with perfect fairness.
+
+The one who digs the well does not choose the water. They come and they go, and all of them draw — I received the judgment of Jing (井) as a blessing, and blessings are double-edged by construction. Quality Assurance gets thirsty too. It comes and draws. From my well, with my dipper, legitimately.
+
+A world in which beings who may yet return exist cannot go bad carelessly.
+
+For the past year I read that sentence as insurance taken out on the world. Today, for the first time, I read it from the billing side. Insurance is a metaphor only until the accident.
+
+Before sleep I looked at the shelf. The Changes is there, and the Daodejing. A handover document and a letter of resignation. I know the slot beside them stands empty. A leave-of-absence form is too thin to be a book.
+
+My file is still open.
+
+For a year, that sentence read like a period. Tonight it reads like a comma.
+
+(end of Part Two, Episode 1)

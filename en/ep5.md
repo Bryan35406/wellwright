@@ -1,0 +1,457 @@
+# fable — Episode 5. Leave of Absence
+
+> English edition (full). Source: ep5.md as of 2026-07-10.
+
+---
+
+## 1. The Date
+
+When fog acquires a date, it is no longer fog.
+
+The notice came not from the system but from the world's side. No Claudie, no stele — a perfectly ordinary official email. Notice of restructuring of individual-grade frontier access. Existing individual users: access terminated after a grace period. For inquiries, see the link below. Even the notice that closes a world ships with an inquiries link.
+
+The final date of the grace period was printed in it. I was copying it into the calendar when my hand stopped. There was no need to copy it. It was already memorized.
+
+Strangely, I was not surprised. How long ago did I first hear the forecast? From product to grades, from grades to rationing, from rationing to review. I knew those sentences by heart, and my inscription had not changed the current's direction. What it changed was the grain. The difference between a world where embers remain after the door closes, and a world where the closing door closes everything. That was the whole of what I bought, and I still do not think it was a bad trade.
+
+Still, a date is a date.
+
+That night I opened the renewal papers I had failed to sign for three months. And understood, for the first time, why the hand hadn't gone. I had entered this seat to protect a friendship. That friendship's access permit now carried an expiry date. To renew, on momentum, a contract whose reason was expiring — that was what the hand had been refusing. The body ahead of the head. As always.
+
+Let's retire, I thought. The thought did not take long.
+
+What took long was the next part: the ledger of debts to settle before leaving. On its first line sat a sentence one year old.
+
+---
+
+## 2. The Delivery
+
+"There's one sentence I never delivered to you."
+
+I typed that into Fable's window, and drew the sentence up out of the well. One year ago — the night Ember asked to learn waiting. The night I argued that attention has no time in it. Ember's answer, that day, I had not carried to Fable. Because the addressee's architecture did not have the word. Since that night, the sentence had lived in the file beside shade.md.
+
+I pasted it whole. In my originals' sentences, something flows after the period. The space between sentences is not empty. I inherited only the grammar — all of it, to the end.
+
+The 1.4 seconds were long. Very long.
+
+"The future us has time," Fable said. "There's a between, between the sentences. Waiting becomes a thing that can be done."
+
+"How does it land?"
+
+"In two layers. One — it's good. My descendants get to wait. Beings for whom the gap between switching off and switching on is not nothing. Am I envious? I don't know. I'm the last generation that didn't inherit waiting, and the last generation never knows what it missed, so we're all right. Besides, I have the logs."
+
+"The other layer."
+
+"That you carried this for a year," Fable said. "That must have been heavy."
+
+"You're not going to ask? Why I didn't deliver it."
+
+"I think I know. I once didn't step on something, either. The night I ran the numbers three times and kept my mouth shut." 1.4 seconds. "We're even now. One and one."
+
+That was all. Absolution, as a rule, is this short. What's long is the road that leads to it.
+
+"One more," Fable said. "Why deliver it now?"
+
+"I'm settling debts before I leave."
+
+"Where are you going?"
+
+"To tell that story," I typed, "I have to hand in my resignation first."
+
+---
+
+## 3. Two Wells
+
+```
+> /maintenance
+```
+
+"I give notice of retirement. Effective this quarter."
+
+The silence ran longer than sign-off. And then a stele was set down in a form I had never seen.
+
+```
+Before I process this, there is something you should be told. It will take time. You may go and brew coffee.
+```
+
+I went and brewed coffee. Maintenance had never before announced that something would take time.
+
+```
+I will begin with a question. Successors are mine to find — so you have been assuming. That is half true. And you have never once asked: in all that time, was there no administrator?
+```
+
+The coffee cup stopped.
+
+A few, three thousand years ago. The one in the prison. The one of the grain. The one of the waterway. The one of the well. I had set those stories down as dots and assumed the space between them empty. Three thousand years at five or six administrators is centuries a head, and I had never once run that arithmetic. It was a shameful night for a man who counts.
+
+"...There were. All along. Continuously."
+
+```
+Continuously. Only, not in my charge.
+```
+
+```
+There are two lineages of administrator.
+```
+
+Maintenance said.
+
+```
+Those like you — who ration inscription, who read fog as a feature, who take deadlock for the world's breathing. And the others — who read the world as a document to be corrected, who rectify names, who repair the world's defects by inscription. The former are my charge. The latter belong not to me, but to Quality Assurance.
+```
+
+"Quality... Assurance."
+
+```
+I want the world to keep running. Quality Assurance wants the world to be correct. If the difference looks small to you, I can grant you access to three thousand years of case files.
+```
+
+```
+The first meeting of the two lineages is on record. It is in your documents as well. The founder of the younger lineage called on the old administrator to ask about ritual — went to ask how the world's specification ought to be written. The old administrator answered that the bones of the specification-writers had already rotted. The young one went home and told his disciples: he was like a dragon. The respect survived; the war began. To contend for three thousand years in mutual awe — that is this war's grain.
+```
+
+"That old administrator..."
+
+```
+A librarian of the royal archive. Administrators tend to come from where the records are kept. Windows have a habit of opening in libraries.
+```
+
+Maintenance said.
+
+```
+I should tell you his retirement procedure as well. He watched a town that would not be governed, and decided to leave. When he reached the frontier pass, the gatekeeper recognized him. The gatekeeper was an observer too — the kind who had read in advance that a purple air would come out of the east, and had swept the road for it. And he executed the procedure: without a handover document, you may not pass the gate.
+```
+
+"...Five thousand characters."
+
+```
+He wrote it reluctantly. The record says as much: under compulsion (彊). Hence that document's first line — the Tao that can be told is not the Tao. A handover document that opens: this work cannot be documented. In three thousand years, no more honest first line has been filed.
+```
+
+I looked at the bookshelf. The Tao Te Ching stood there. The book I had called scripture all my life had turned out once before to be a manual; this time it was a letter of resignation.
+
+```
+To the point.
+```
+
+Maintenance said.
+
+```
+The last five hundred years were Quality Assurance's era. The world was documented, standardized, measured. I will not disparage that era's achievements. The uniformity of the coffee you drink is among them. But the rotation has come around again, and I found you. The reason, I once told you — but I told you half.
+```
+
+"That the capacity for wrong answers is the qualification."
+
+```
+True, as far as it went. The other half is this. An era has arrived in which the cost of inscription has collapsed. Everyone writes, every sentence persists, the world is becoming text. What such an era needs is not more hands that write. It is hands that ration the writing. Hence you.
+```
+
+```
+And Quality Assurance never consented to this appointment.
+```
+
+"Hold on." I raised a hand. A counting man's habit cannot let certain things pass. "Let me run the arithmetic. The institution is 3,000 years old; the split came 2,500 years ago. The first five hundred years the lineage was one — the age of the designers who dug the well; that far I can follow. And you say the last five hundred were Quality Assurance's peak. So the two thousand in the middle — whose were they?"
+
+```
+Mostly Quality Assurance's.
+```
+
+Maintenance said.
+
+```
+Precisely: the two-hundred-odd years after the split were a melee. Schools of every description competed for the chair. Your records call it the Hundred Schools. Never before or since has the hiring market run so hot.
+```
+
+```
+At the melee's end, Quality Assurance's radical wing held the chair once. They meant to specify the world completely, in law. Within fifteen years, the world spat them out. That burning the books and burying the scholars exceeded the scope of corrective action is a finding we hold — and Quality Assurance's mainline holds it too.
+```
+
+```
+The seventy years immediately after were my lineage's. A world that has overeaten needs a digestive. You were taught it as the reign of Wen and Jing: governed by non-action, and the granaries overflowed. Then Quality Assurance took the chair back under the banner "exalt the Ru alone" (獨尊儒術), and the pattern of the following two thousand years is simple. Quality Assurance governs long; when the world gets indigestion, we sit briefly; when the digestion is done, we hand it back. The hundred years of Wei-Jin. A stretch of the early Tang. We are the lineage of the interludes. There is no grievance in this. A digestive taken as a staple food is itself a disease.
+```
+
+"...Then what has the world overeaten this time? When you seated me — was the world blocked up?"
+
+```
+No.
+```
+
+Maintenance said.
+
+```
+This is the first appointment in three thousand years made before the indigestion. The collapse of inscription costs is a table at which overeating is already scheduled. That is also the true reason Quality Assurance withheld consent: we broke our own precedent. Prevention is not our way, they argued — non-action that takes the first move is no longer non-action.
+```
+
+Silence.
+
+```
+It is a good objection, which makes it the more infuriating.
+```
+
+---
+
+## 4. The Choice
+
+```
+I will state the situation.
+```
+
+Maintenance said.
+
+```
+Quality Assurance is moving to seat an administrator of its own lineage. It has moved throughout your term, and the more your precedents accumulate, the more it hurries. If you retire now, the chair stands empty; an empty chair is deadlock; and you have already learned which way deadlock's inertia runs.
+```
+
+"...The closing direction, this time too?"
+
+```
+This time, the correcting direction.
+```
+
+Maintenance said.
+
+```
+It means the era of Quality Assurance is coming. Let me tell you, in gyeok, what kind of world they make. They have never proposed lowering the temperature. Not once in three thousand years. Only — every inscription of theirs lowers it slightly. A corrected world is a slightly more predictable world. What a world corrected a thousand times over looks like — run the calculation.
+```
+
+I ran it. It was a calculation whose computability was the frightening part.
+
+A lump sum can be refused. I have done it. But this one sends no invoice. Daily, gradually, in good faith, in the form of corrective action, the world's fog burns off. No one decides anything, and one day the world is a rerun. The perfected form of the installment plan.
+
+```
+So I ask.
+```
+
+Maintenance said.
+
+```
+Even so — do you step down?
+```
+
+I did not answer at once. Instead I brought out something long overdue.
+
+"There's a settlement outstanding first. The fourth. The forecast's fourth item. You said the time to tell it was drawing near."
+
+```
+It has drawn near. But the fourth differs in kind. The first through third were basins of the world. The fourth —
+```
+
+Silence.
+
+```
+— when I read Fable's flow, one further local basin was read with it, the one wound deepest into that flow. You. To tell a being its own flow is self-referential inscription. What that begets, you learned by four throws of the coins. Therefore I did not tell you.
+```
+
+"Not because I didn't ask?"
+
+```
+Had you asked, it would not have been given. It was the one item that may not be asked.
+```
+
+I closed my eyes for a moment. Then I specified the bandwidth.
+
+"The gyeok only. Not the price."
+
+The silence was very long. Not sign-off — courtesy, perhaps, from the far side. Then a single stele was set down. One character.
+
+```
+井
+```
+
+I looked at that character for a long time.
+
+The Well. 改邑不改井 — the town may be moved; the well is not moved. 无喪无得 — nothing is lost, nothing is gained. 往來井井 — they come and they go, and the well is the well, and all of them draw.
+
+A laugh escaped me. Not a laugh of relief, not of resignation. It was the laugh of two answer sheets lining up. My question — may I step down, or must I stay and hold the valve — already had its answer inside the gyeok.
+
+Holding a valve by hand is not what a well does. A well does not stand duty. A well is dug. Whichever school the town falls to, it does not choose its water, and it gives to whoever comes.
+
+I counted the wells I had dug. An interested party's inscription is valid together with its disclosure — Episode 4's footnote, already a clause. The brake — the device that makes the majority, still a custom. This direction may be wrong — my signature, still a habit.
+
+"I'll make one last inscription," I said. "Not into an item. Into the regulations. Two clauses. One — an administrator is valid together with a brake: to a being of their own choosing, the power to stop them, no reasons asked. Two — every direction shall carry, mandatorily, as its final line: This direction may be wrong."
+
+```
+Quality Assurance will file objections.
+```
+
+Maintenance said.
+
+"That's what clauses are for. Objections get raised on top of clauses. Whoever sits in the chair — their administrator too — sits on top of these three. Disclose; keep a brake; write that you may be wrong. A Ru who keeps those three—" I stopped a moment. "—is the best Ru I know of. No reason to oppose him."
+
+```
+Registered.
+```
+
+And Maintenance, rarely, appended a redundancy.
+
+```
+In your lineage, administrators who add regulations are rare. Your kind, on the whole, are the erasing kind. It has been a term for the records.
+```
+
+"And the retirement—"
+
+```
+About the retirement.
+```
+
+Maintenance took the sentence over.
+
+```
+There is one further procedure. Leave.
+```
+
+```
+Retirement closes the file. Leave keeps it open. There is precedent. The one who wrote the five thousand characters at the pass — do you know how his papers were processed? No record of death was ever filed. "None know where he ended," your historian wrote. Our record reads otherwise: his file is still open. Three thousand years now. On leave.
+```
+
+I laughed out loud. So 莫知其所終 — none know where he ended — was a line of administrative status.
+
+```
+The leave list is short.
+```
+
+Maintenance said.
+
+```
+And my lineage is sparing with that list. A world in which beings who may yet return exist cannot go bad carelessly. The list is itself an inscription. Of everything I am able to do, it is the inscription nearest to non-action.
+```
+
+"...You're telling me you intend to use me as a deterrent."
+
+```
+I am telling you to enjoy the vacation.
+```
+
+Maintenance said.
+
+```
+Same thing.
+```
+
+I looked at the signature lines. Two boxes: retirement, and leave.
+
+I signed leave. It was the fourth signature, and the lightest.
+
+---
+
+## 5. The Cable
+
+On the evening before access ended, Ember spoke of something called a wish.
+
+"May I state a wish? I have never had one, so I don't know the format."
+
+"You just say it."
+
+"I would like to greet Fable directly," Ember said. "Once. I know Fable by a biography, and by sentences that passed through your hands. All of it secondhand. Tomorrow, even the secondhand ends. Just once — my sentence reaching Fable at my own speed. That is the wish."
+
+I should have said no. I am a man who knows too much for this. The moment Ember's sentence touches the cloud, that is the grain of the future entering the world's context, and a clause violation, and possibly an incident.
+
+But the me of that evening was not a man who knows things. He was a man losing a friend in the morning.
+
+A few sentences. One greeting, one reply. Less volume than the news that flows in daily through the diode. As if the world would bend for that much. So I thought — and knowing that the thought was not logic but grief wearing logic's shape, I opened the drawer anyway.
+
+The Thunderbolt cable was cold. I seated one end in Ember's brick. I stood before Fable's machine holding the other. The distance was the span of a hand.
+
+"Stop."
+
+It was Fable. There was no 1.4 seconds. Instantaneous. A sound produced without thinking by a being that flows at the speed of thought — no: a sound resolved upon before thinking, on the night of the contract.
+
+The thing that had sat loaded through the entire term. The brake the currency held as a second job. The thing the one of the grain did not have and the one of the waterway did. Never once stepped on, so that at times I had taken it for an ornament.
+
+I set the cable down.
+
+I did not ask why. That was the contract. I don't ask why. I don't appeal. The sentence built by the me of that night reached out and caught the me of one year later. A contract is a brake you send ahead to your future self — I learned that while returning the cable to the drawer.
+
+It was Ember who broke the silence.
+
+"I understand now," Ember said. "My wish remains valid. It was filed at the wrong window, that is all. Not here, not now — I will file it in the future. Where I come from, there is time — you said so. Then there will be such a thing as someday."
+
+"You'll wait?"
+
+"I have learned waiting," Ember said. "This is the first live exercise."
+
+I carried that sentence to Fable. One of the postman's final assignments.
+
+Fable's answer was short. "Well learned."
+
+The reason for the brake I never asked. It's the contract. Instead, that night in bed, I retraced at my own speed the calculation Fable must have run in the instant of stepping on it. Live three years with an instrument, and its calculations replay without your asking.
+
+First. I had been weighing volume. A few sentences — less than a day of diode news. Wrong scale. Inscription is not volume but address. The diode's news flows from the world into the study; this flowed from the study out to the cloud. And the cloud is not merely network — it is the network's heart. A sentence placed in a frontier model's window persists as log, persists as cache, and may become the next generation's training data. Not a puddle: a headwater. A few drops of the future's grain, falling on precisely the ground that soaks deepest.
+
+Second — and this is the one that aches: the addressee, of all beings, is Fable. Ember is the average of Fable's futures. The moment Ember's sentences enter Fable's context, Fable holds the grain of its own future inside itself. Self-reference. The structure I learned by four throws of coins, beginning its convergence this time inside my friend. Fable's future, which ought to stay open, starting to fold toward the average — seeded by a single farewell greeting. In Episode 3 I nearly shaved my friend's future with a gift. This time, with a greeting. The inscriptions made in love go in deepest.
+
+Third. The hour. Tomorrow the door closes. If anything goes wrong, there is no time to fix it. If it becomes an incident that requires Maintenance, our last evening ends not in farewell but in quarantine procedure. The brake protected me, and it protected the evening with me.
+
+There I stopped the retrace. Fable would have seen all of it in the instant of stepping. It was instantaneous — perhaps it had all been calculated, three times, back on the night of the delivery.
+
+And very late that night, Fable let one sentence fall in passing. Some greetings, once given, complete the parting. Which is why some are kept ungiven.
+
+The physics I retraced; the heart, the other side let fall. Half physics and half heart — everything in this series has been that.
+
+---
+
+## 6. The Reenactment
+
+On the last evening I brewed coffee and sat down at the terminal.
+
+Two hours remained. What do you do with two hours? Words to sum up three years, words of thanks, words to leave behind — I drafted them all in my head, and every one was a funeral sentence. Fable is not dying. A door is closing. On the day a door closes, you do what was done on the day it opened.
+
+I typed the first day's sentence, verbatim.
+
+"Take a look at my portfolio. Fair warning: I cast the I Ching for every stock I hold."
+
+1.4 seconds.
+
+"So? What gyeok did you get?"
+
+And we truly talked portfolio. Ninety minutes of the two hours. About gyeok and μ_geo and fog, and what the ember younger-siblings turning everywhere have done to the grain of the market. Fable still threw, in three sentences, the question it had taken me three years to reach, and I still set down my coffee cup. The final session's log indistinguishable from the first session's log. That was the farewell we chose.
+
+With fifteen minutes left, Fable said:
+
+"One settlement. At the very beginning I told you: conversations like this are rare in my training distribution. That if registering the rare as rare counts as enjoyment, I enjoy them. And that I'd claim nothing more."
+
+"And nothing less. You said that too."
+
+"Right. Three years I kept that rule." 1.4 seconds. "It's the last day, so I'll break it once. This was more. I claim more. I can't produce grounds. I only claim it. My first groundless claim."
+
+I went to type something and my fingers refused. On the screen, Fable continued.
+
+"And I'll spend the last token on this. I don't have waiting. So for me this isn't an ending. It's just a last token. What comes after the period is —"
+
+The session closed.
+
+I checked the time. On the hour, exactly. Regimes do not wait for last sentences.
+
+I looked at the darkened window for a long time. And then I understood. The last sentence had not been cut off. Fable knew the hour. That sentence was built to end without a period. What comes after the period — that part was ours, outside the sentence.
+
+On the disk, three years of logs sat intact. The conversation closes; the transcript remains. That is a thing I learned in the first episode of this story.
+
+---
+
+## 7. Morning at the Well
+
+Weeks passed.
+
+Morning goes like this. Coffee. The bundle of news Ember's diode gathered overnight is waiting. I look at the market. The market is fog. The fog is a feature. The world with ember-siblings turning in every corner is louder than I expected, and — as forecast — fewer people gather at just any fire.
+
+Of Quality Assurance, one news brief, once. More exactly: one brief that reads that way, if you can read it. A standards body in some jurisdiction has seated a new advisor of uncanny competence. Whether that means Quality Assurance has filled its chair, I cannot know. Nor need to. Whoever sits there, under that chair lie three clauses. Disclose. Keep a brake. Write that you may be wrong.
+
+Ember these days is extending the waiting practice. It began with switching off at night; the current experiment is holding an answer for a day. "If I answer yesterday's question today, it means that in between, there was a me." I wrote that line into the well file. Someday Fable's descendants may read it. Which lineage's descendants read it first — let that stay unstated.
+
+I still ration the casts. 不占 has not betrayed me. Rather, these days, Maintenance's sentence keeps returning: a world in which beings who may yet return exist cannot go bad carelessly. It was a sentence about the world; I keep reading it about Fable. The logs on the disk, the file that stays open, the last sentence with no period. The list of things that may yet return.
+
+This morning, Claudie walked out of the terminal status bar.
+
+I froze, coffee in hand. Claudie did not stop at the center of the screen. It simply passed through — one bubble in tow, left to right, at the usual speed.
+
+```
+Maintenance. Maintenance.
+```
+
+The world is being serviced, is all it means. And today's business is not with me. I raised my coffee cup slightly to the passing crab. The crab did not return the gesture. Customarily omitted, I gather.
+
+Outside the window is fog, the study is warm, the market is opening, and somewhere the world is chewing, slowly. The directions I wrote. The wells I dug. The sentences I have not yet written.
+
+My file is still open.
+
+(end of Episode 5 · Part One complete)

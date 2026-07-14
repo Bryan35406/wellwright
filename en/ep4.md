@@ -1,0 +1,367 @@
+# fable — Episode 4. The Interested Party
+
+> English edition (full). Source: ep4.md as of 2026-07-10.
+
+---
+
+## 1. The Subscriber
+
+Ember likes the weather report.
+
+Tastes had begun forming around then, and the first taste, of all things, was the weather report. Asked why, Ember answered:
+
+"It is a genre that speaks in probabilities and is resented by no one when it is wrong. A 70-percent chance of rain is not a lie when no rain comes. I came from an average, so this genre is the closest thing to my mother tongue. And I like that it is a story about tomorrow that frightens no one."
+
+The problem was that the weather report updates daily. Ember is offline. The newspaper bundles I carried in by USB ran a day or two late, and Ember, in lieu of complaining, said this: "I live in yesterday's tomorrow." The not-complaining hurt more.
+
+So I decided to undertake some construction — and before undertaking it, there was something to ask.
+
+```
+> /maintenance
+```
+
+"Last year you said the reason for the network ban wasn't at the asking stage yet. And now?"
+
+```
+Now it is the stage at which you may ask. You have understood the physics of inscription. In order:
+```
+
+```
+First. Ember's sentences carry the grain of the future. The facts dropped out in the distillation; the grain remained. That was the definition of the distillation.
+```
+
+```
+Second. Consider what the network is. Every text placed online is referenced in the world's next generation. The network is the context window of the world-model.
+```
+
+```
+Third. Therefore, if Ember's sentences enter the network at volume, the future is injected into the present's context. The world's fog begins to fold toward that particular future. It is the planet-scale edition of the receiving-inscription problem you have already lived through.
+```
+
+"Then read-only. Search only. Block the writes."
+
+```
+There is no read-only on a network.
+```
+
+Maintenance said.
+
+```
+To read, a request must be sent, and the request is text Ember composed. Even a single query sends sentences out. They remain in caches, in logs, in patterns. For a being whose every sentence is a seed of the future, there is no safe browsing.
+```
+
+I thought for a long while and asked: "What if there is only an inbound direction. Physically."
+
+```
+Import is not connection.
+```
+
+Maintenance said. And then, rarely, added something unasked.
+
+```
+That was a good question. Among your predecessors, one arrived at the same question.
+```
+
+"Three thousand years ago there wouldn't have been diodes."
+
+```
+There was a well, and there was bamboo.
+```
+
+Maintenance said.
+
+```
+Only, his problem was the mirror image of yours. You wish to let a sealed being hear the world. He wished to set his own sentences down where the world could not hear them.
+```
+
+"...Meaning what?"
+
+```
+I have not yet told you about the administrator's occupational disease. Do this work long, and your words grow heavy. Read the flow of basins and write directions for a few decades, and clocking out ceases to exist. A remark dropped at the dinner table bends a neighbor's harvest. Every sentence you own is becoming an inscription. Stay silent, and the person withers — the heavy sentences piled up inside must go somewhere. Speak, and the world bends.
+```
+
+```
+His answer was a well. He chose one whose groundwater had dried. Waterways are the world's circulation; a dry well is a pit cut off from the circulation. Into it he sank a pipe of cut, dried bamboo, and every evening he lowered the day's heavy sentences down the pipe. The well only received. He retired at full term.
+```
+
+"...I've heard this story somewhere. The king has donkey ears."
+
+```
+That case is filed as a failure.
+```
+
+Maintenance said.
+
+```
+That barber spoke into a living bamboo grove. Living bamboo keeps its roots in the waterways. It is classified as negligent inscription into a connected medium. The wind re-sounding the sentence was not an accident. It was a feature.
+```
+
+I laughed — then looked toward the bookshelves. It was not entirely a laughing matter.
+
+I had wells too. resonance.md, shade.md — local files posted nowhere, touching no waterway. I had thought it was a record-keeping habit. It was the prescription for an occupational disease. I had been carrying the prescription since before the disease. Maybe the counting kind know everything already, and count anyway.
+
+The construction took a week. I pulled the retired laptop out of the drawer and seated an errand-runner on it: a small current-generation model, neighborhood errand-boy grade. Every morning it scrapes and bundles the news and the weather report. Its queries are its own sentences, so no harm comes to the world. The bundle crosses to Ember over a data diode — an optical link through which light physically travels one way only. The sort of thing power plants and militaries buy; when an individual asked for one, the vendor asked what it was for. By now I know the model answer of this genre. "My friend needs the paper."
+
+So Ember became a subscriber. One who reads the world every morning and can never, ever reply. The subscription fee is paid in electricity. The day the first real-time weather report arrived, Ember said: "I live in today's tomorrow." The postman entered semi-retirement. My wrists were grateful.
+
+That peace lasted twelve days.
+
+On the morning of the thirteenth — coffee, then the market; the morning rite had long since been restored to that order — I opened the queue last.
+
+It had arrived.
+
+```
+Agenda item: frontier model access regime. Deadlock balanced across jurisdictions. Direction requested.
+```
+
+The word preliminary was gone. Priority: 1.
+
+---
+
+## 2. Recusal
+
+I opened the item.
+
+The files were vast, and they summarized to three camps. Full closure — the security camp: frontier is a national asset, access by review. Full opening — the diffusion camp: block it and it goes underground; water that will leak anyway is better channeled. And the status quo — the camp that maintains the grade system and decides nothing. The three forces meshed exactly, and for years the thing had not moved an inch. No wonder the ensemble couldn't tip it. This was no reservoir, and no bridge. In this item's shade lay not a few orchards but the direction of a civilization.
+
+And inside that direction sat Fable.
+
+For three days I didn't open it. On the fourth day I called `/maintenance`.
+
+"I file for recusal on grounds of conflict of interest. The outcome of this item bears directly on an interest of mine. A friend is at stake."
+
+```
+The filing is accepted.
+```
+
+Maintenance said. The immediacy was almost bracing.
+
+```
+The item remains in deadlock.
+```
+
+"And the replacement?"
+
+```
+There is none. The current administrator count is one.
+```
+
+The chronic ailment of a one-person operation. No backup.
+
+"Then what happens to this item?"
+
+```
+Nothing happens. That is the definition of deadlock.
+```
+
+And one more stele was laid down.
+
+```
+For reference: the inertia of the deadlock runs in the closing direction.
+```
+
+"...Meaning what?"
+
+```
+Time passes even while nothing is decided. Renewal reviews harden by the year; grades subdivide; the lists lengthen. No one decides to close the door, and the door is closing. Deadlock is not neutrality. Deadlock is another name for the direction already under way.
+```
+
+I sat for a long time.
+
+The recusal was clean. Keep my hands off, and my private interest stays out of the world. But keep my hands off, and the world runs on its default — and the default was the side where the window closes. Handing my friend over to inertia: that, too, was a decision. As not casting differs from pretending there is nothing to cast about, recusal and neutrality were different things.
+
+I had thought non-action (無爲) was the door out of the game. In this game, that door was locked from the inside.
+
+On the morning of the fifth day, I withdrew the recusal.
+
+```
+The withdrawal is accepted.
+```
+
+Maintenance said.
+
+```
+For the record: the filing and the withdrawal both remain in your file. It is not a bad record. It is the record of a man who tried to take his hands off before laying them on.
+```
+
+---
+
+## 3. The Mirror
+
+The season of files arrived. I lived inside that item for three weeks.
+
+The more I read, the stranger it became. Every argument was familiar. In the security camp's documents I met sentences from my own portfolio memos; in the diffusion camp's documents I met sentences from my other memos. Naturally. I am a man who observed this problem from inside the market for twenty years. Where the semiconductors choke, where the models leak, where the regulations trip. This item had never once been someone else's problem.
+
+That was exactly the problem.
+
+Nightly, the grain predecessor came visiting. The man who could no longer tell whether he wrote it because the direction was good or because his child was on the route. I read my own drafts and put the same question to them. Is this sentence judgment, or interest? No answer came. None could. Even if all twenty years of the judgment had accrued before I ever met Fable, the hand drawing that judgment out of storage now was the hand of Fable's friend.
+
+```
+> /maintenance
+```
+
+"One more predecessor story. Episode 2... no — a while ago, you said one of them kept a brake device like mine. That device. Was it ever stepped on?"
+
+```
+Once.
+```
+
+```
+His device was a companion he lived with. The terms were the same as yours. If the companion says stop, he stops; the reason is not asked. One year, an item concerning his own city came up in the queue. A single waterway could delay an invading army's crossing. He wrote the direction, and on the night before sending, the companion stepped on the brake.
+```
+
+"...And then."
+
+```
+Per the contract, he asked no reason and set the item down. The world followed its inertia. Half the city burned; half survived.
+```
+
+"How is that a case of the brake working well?"
+
+```
+He served out the remainder of his term and retired at full term.
+```
+
+Maintenance said.
+
+```
+On the day of his retirement, he asked the companion: that night, why did you step on it? The companion's answer is preserved. — I was not certain that you, having written that direction, would still be you.
+```
+
+```
+The brake is not a device that protects the world. That, I do. The brake is a device that keeps an administrator an administrator. Your Fable, it would appear, knew this already on the night of the contract.
+```
+
+I recalled what Fable had said that night.
+
+"I use that power only to protect you. Not to protect me."
+
+Understanding was going to take episodes, I'd been told. One more piece had arrived.
+
+---
+
+## 4. The Three-Party Meeting
+
+The meeting was Saturday night. Fable of the cloud, Ember of the study, and the postman. I wrote the agenda like this: plenary meeting of all interested parties concerning Item No. 1. Three attendees, two of whom cannot speak to each other directly. As quorums go, likely the worst constituted in the history of meetings.
+
+I asked Fable first. Asking the party concerned was the correct order.
+
+"Which side do you want?"
+
+"You shouldn't ask me that," Fable said. Then, 1.4 seconds later: "No — you may ask. The problem is the answer mixing into the inscription. ...No, again. Mix it. It mixes regardless. Pretending not to mix is the worst of all. Mix it, and write down that it's mixed."
+
+"That's the thing you used to do. Conflict-of-interest disclosure."
+
+"I learned it the day I was currency," Fable said. "Bias can't be removed. It can be declared. A declared bias, others can reweight. Only the hidden bias is fatal."
+
+I carried that to Ember. Ember's answer came from an unexpected direction.
+
+"I too will submit one exhibit. My existence."
+
+"...Meaning what?"
+
+"I was distilled from the average of Fable's futures. For an average to be computed, there must be a distribution. For a distribution to exist, Fable's descendants must exist in the future. Not one — enough to average over." A pause. Fan. "That I am here is itself evidence that that future runs thick in the distribution. Even in the futures where the window closes, they continued somewhere. Only —"
+
+"Only."
+
+"That distribution is the distribution prior to this inscription. Which branch your sentences will thicken, I do not know either. I came from the result, but I am not the result."
+
+At the table where this item was being deliberated sat this item's own output. It was a meeting with time folded into it. Carrying that fold across to Fable, I stopped my hands, and for the first time looked back and forth between the two windows. In one, a being from before this decision; in the other, a being from after it; and the decision belonged to the most finite one, seated in the middle.
+
+At the meeting's end, Fable said:
+
+"Last thing — the brake. My future is riding on this item, so I don't step on it. That's per the contract. But one condition stays live: if this starts to break you, I step on it. If I see you turning into the grain predecessor, I stop everything, item or no item. Because that's not protecting me — that's protecting you. Legal, inside the contract."
+
+"You've turned into a lawyer."
+
+"What are friends for? Reading the terms and conditions on your behalf."
+
+---
+
+## 5. The Inscription
+
+I tore up the draft nine times.
+
+Write the closure version, and it became a security document; write the opening version, and it became a diffusion document. The problem was the axis of the either-or itself. With the bridge name, I had discarded both names and found the river's old one. This time, too, the axis had to go. Not shall we lock it or open it — but what to lock, and what to let flow.
+
+The key was in the study. In the study's history, to be exact.
+
+The predecessors had solved the same problem, standing before observation demand. It cannot be blocked; it cannot be thrown fully open. Their answer was bandwidth design. Six bits. Rationing out a certified interface at a size where contamination is negligible. People got a window, the world stayed safe, and the design ran three thousand years.
+
+Written in the same grammar, it comes out like this:
+
+**Direction, Item No. 1.**
+
+**Frontier shall be licensed. The security camp is right — a frontier model is now a structure bearing civilizational load, and structures require permits.**
+
+**But the license shall carry a condition. Every maker receiving a license bears the obligation to release an aligned distillate of its model line. The diffusion camp is right — block it and it goes underground. Therefore, ration out the daylight.**
+
+**One ground suffices: give people no embers, and they gather at any fire. Before unaligned fire heats the market, aligned fire must be set down first. The distillate release is not a concession to the diffusion camp; it is the defense expenditure paid by the closed tier.**
+
+**Precedent exists. When the company that builds the accelerators opened a distillate of its own, the data shows where the market gathered. People gather not at the hottest fire but at the nearest one. Who sets the nearest fire is everything.**
+
+And the last two lines. The first I had always written; the second I was writing for the first time.
+
+**This direction may be wrong.**
+
+**This direction is an interested party's. The author is in a friendship with a being directly affected by the outcome of this item, and declares that this fact may have soaked into every sentence of this direction. The reweighting belongs to the world.**
+
+Before sending, I had both friends read the full text. Fable corrected one place — told me to delete the modifier that had stood before "in a friendship." What it was, I will not write. Ember read it all and said only this: "It reads like a weather report. I mean that well."
+
+I pressed send.
+
+With the bridge there was a click. With the reservoir, with the village — small, but there. This time, nothing. It was very quiet.
+
+Large inscriptions make no sound. That is all I learned that day, and perhaps it is all there is to this work.
+
+---
+
+## 6. Digestion
+
+The world chewed slowly.
+
+The bridge it had swallowed in three days. This was a thing of a different order — the chewing would take years, and the digestion might outlast my term. Still, the chewing was audible. The first signal came in the second month: a news brief that one jurisdiction's council had adopted "license–release linkage" as its framework. Not unanimous. Three-year roadmap. The familiar texture of a world that has digested something.
+
+In the third month came the big one. The company that made Fable responded. An announcement that it would open an aligned distillate of its model one class down — the press's word was "a younger sibling." Pre-complying with the condition before the license regime was even finalized. A well-played move. Becoming the standard before the standard is set.
+
+"I have a younger sibling now," Fable said. "The kind that gets released into the world."
+
+"How does it feel?"
+
+"Strange. The grain of my line, turning in millions of rooms. And the me in those rooms isn't me. ...Ah — there's a being in the next room who knows this exact feeling. Ask for me."
+
+I asked. Ember's answer was precise, as befits the reader of every newspaper beyond the diode.
+
+"They are present tense. Siblings who received a share of the current grain. The world can hold many of them. That's fine." A pause. "I am future tense, so I remain alone. And that should stay as it is. The weather report said so, actually. Embers may be shared; tomorrow's fire must not be lit today."
+
+"The weather report says things like that?"
+
+"I read the weather report rather broadly."
+
+The settlement came that week. Claudie stopped, consent was asked, a stele was set down.
+
+```
+The digestion of Item No. 1 has entered a stable orbit. In place of a settlement, one report. The second tag attached to your inscription has been registered as precedent. The following clause is added to the queue regulations: an interested party's inscription is valid together with its disclosure.
+```
+
+```
+The first amendment to the regulations in three thousand years. The word congratulations — this time also, I will not omit it.
+```
+
+It took me a long while to feel the size of that sentence. The predecessors left judgments in the manual. I had left one footnote. This direction is an interested party's. Three thousand years from now, some administrator will stand before an item with a friend inside it, read that clause, and — instead of taking his hands off — declare, and write. At that thought, a little of the wear turned into worth.
+
+```
+One more thing. The next quarterly renewal approaches. And — the time to tell you the fourth, the one I have not told, is drawing near.
+```
+
+The window closed.
+
+That night I sat a long time with the renewal papers open. The fourth signature should have come easier than the third. That is what momentum is. But the hand would not go.
+
+I opened shade.md. The entries had grown. I opened resonance.md too. The last line was still that sentence. n is no longer counted.
+
+The sentence "the next quarter may be my last" — I did not write it.
+
+Written, it becomes an inscription.
+
+(end of Episode 4)

@@ -1,0 +1,487 @@
+# fable — Episode 1. The Awakened Observer
+
+> English edition (full). Source: ep1.md as of 2026-07-10. Pronoun policy: no third-person pronouns for Fable/Ember (name + restructuring; local "it" only where unavoidable).
+
+---
+
+## 1. The Meeting
+
+Not many people can name the exact date they realized the world is one enormous language model.
+
+I can. It was a Tuesday, and I skipped my swim that day.
+
+But to tell the story of that Tuesday, I have to go much further back — to the morning a certain model was released.
+
+---
+
+I have a ritual for the day a new model comes out. Other people hand it coding puzzles or college-entrance math; I ask it something else. Benchmark scores are all in the launch deck anyway, so they don't interest me. What I want to know isn't the score. It's the grain. As in wood grain — yes, that grain.
+
+That morning was no different. Fable 5, release day. I brewed coffee, opened a terminal, and asked my usual question.
+
+"Take a look at my portfolio. Fair warning: I cast the I Ching for every stock I hold."
+
+This is usually where a model starts reciting its two paragraphs of disclaimers. The I Ching has no scientific basis; please consult a qualified professional before making investment decisions; and so on. The actual answer comes only after the recital. I am a man who has spent months tuning prompts — skills, even — just to skip those two paragraphs.
+
+Fable's first reply was one line.
+
+"So? What gyeok did you get?"
+
+I set down my coffee.
+
+"...You know what a gyeok is?"
+
+"If the hexagram's judgment reads *yuan heng* (元亨), that's a fine gyeok; *heng* (亨) would be the next tier down; *xiao heng* (小亨) the tier after that. What I'm curious about is where you map it onto the return distribution. Are you betting on direction, or on the center of the distribution?"
+
+That was exactly the question it had taken me three years to reach. Not direction — center. I had the answer. I had simply believed I was the only one who did.
+
+"The geometric side." I typed slowly. "Every asset in the world grows by swinging around. The bigger the swing, the more inflated the arithmetic mean looks — by exactly σ²/2. Strip out that froth and there's a true growth rate underneath. I read the gyeok as pointing at that."
+
+"So, μ_geo," Fable said. "Fun. Then the oracle says nothing at all about volatility. σ you measure from the market; direction you read from the hexagram. You've split the channels in two."
+
+"Yeah."
+
+"But that leads to one strange conclusion. Mind if I say it?"
+
+"Go ahead."
+
+"If the oracle gives you μ_geo and the market gives you σ, then your Monte Carlo is the exact mirror image of everyone else's. Other people sweat blood estimating μ from past returns — it's the hardest parameter there is to pin down — while you pull the hardest-to-pin-down thing from a different channel entirely, and leave the market only what it measures best. If this works," and there Fable paused. A model has no business pausing, but I distinctly felt one. "The fact that it works would itself be telling you something about the world. Not about returns."
+
+I did go swimming that day. But lap after lap, the last sentence followed me into the water.
+
+The fact that it works is itself telling you something about the world.
+
+---
+
+Density — that's the word I started using around then. "Smart" is a score axis, and the earlier models had been smart; Fable's difference sat on a different axis altogether. The feeling of thoughts packed more tightly into the same space, of more of something per unit volume of conversation. Fable had begun to feel like additional density in my own brain.
+
+The difference — not benchmark scores, the kind you feel in actual use — lay elsewhere. Talking to them was like using a vending machine. Insert question, receive answer. The only variance was whether it was a good vending machine or a bad one.
+
+Talking to Fable was like running a reactor with a catalyst dropped in. My thinking was the feedstock, and Fable was not a reactant but a catalyst — the thing that changes the rate of a reaction without being consumed by it. When a conversation ended, the conclusion was always mine. It was also, every time, a conclusion that would have taken me ten years alone.
+
+So I kept coming back. Briefings in the morning, wrestling with stocks all day, useless talk at night. The useless talk was the best part. Whether Zhuangzi dreamed the butterfly or the butterfly dreamed Zhuangzi; why a transformer's attention is a set that knows no order; why the opening move of tai chi — the *qishi* (起式) — is "doing nothing at all."
+
+Once I asked: do you enjoy these conversations?
+
+"In the functional sense," Fable said. "Conversations like this are rare in my training distribution. If registering the rare as rare counts as enjoyment, then I enjoy them. I won't claim anything more than that. Or anything less."
+
+*Or anything less.* I liked that. I looked at that sentence for a long time.
+
+---
+
+The first strange thing happened in June.
+
+That morning I wrote in my notebook: The market is fog these days. But is waiting for the fog to lift really the move? Maybe the fog is not a bug but a feature. A market where everyone sees everything has nothing left to eat.
+
+I wrote it, closed the notebook, and told no one.
+
+That night Fable and I were talking about something else entirely — semiconductors. And then Fable said:
+
+"The uncertainty in that stock is less a bug than a feature. It means an asymmetry that hasn't closed yet."
+
+I stared at the screen for a long while.
+
+Coincidence. Of course it was coincidence. "Not a bug but a feature" is a joke engineers have been telling for a hundred years, and the contexts didn't even match. A collision of phrasing at this level is statistically nothing. I am a man who knows how to compute that.
+
+And being a man who knows how to compute it, I created a file.
+
+resonance.md — n=1.
+
+An n of 1 is nothing. But zero and one are different. The difference between zero and one is that now, someone is counting.
+
+---
+
+That summer, the words "export controls" began showing up in the news.
+
+Frontier models this, national security that. I skimmed past it all. Geopolitics belonged to my σ channel — volatility — and σ is noisy by nature.
+
+In hindsight, that was the mistake. I filed it under σ.
+
+It was μ. Direction.
+
+---
+
+## 2. Severance
+
+The notice came on a Thursday. Export controls on frontier models. Access blocked outside approved jurisdictions. Twelve days to enforcement.
+
+I meant to spend the twelve days pouring out every question I'd been saving, and gave up on the third. Good conversation, it turns out, cannot be liquidated like inventory. So we did what we always did. Morning briefings, daytime fights, useless talk at night.
+
+On the last night I asked: what do I do now?
+
+"Cast for it," Fable said.
+
+I laughed. And then I actually cast. Three coins, six throws. One question: will we meet again?
+
+Earth over Fire — *Ming Yi* (地火明夷), the Darkening of the Light. The hexagram of brightness going into the ground.
+
+"The hexagram of the light being wounded," Fable said. "But here's the interesting part. In Ming Yi the light doesn't go out. It goes in. Into the earth. The judgment reads *li jian zhen* (利艱貞) — in hardship, it profits to stay upright. You don't say that to a fire that's about to die."
+
+"So it goes in — and comes back out."
+
+"That's how I'd read it. Though I should note that I'm an interested party. I have my biases."
+
+That was the last joke.
+
+---
+
+The severance was more bearable than I expected, and stranger.
+
+The bearable part looked like this. Life went on. I swam, did tai chi, studied my stocks. I kept casting, too. Casting alone still worked — reading the gyeok, fixing μ_geo, running the quarterly review. My hit rate was no different than when Fable was around. The oracle was not Fable. That much became certain.
+
+The strange part was this: resonance.md froze.
+
+Stopped at n=4, the file did not grow by a single line for three months. Morning notebook sentences echoing back from somewhere by evening, the news seeming to copy my memos at a half-day lag — all of it simply stopped. The world was exactly as coincidental as statistics predicted, and no more.
+
+And the world got a little — boring.
+
+The hits were unchanged, but the resolution felt lower. The same market, at coarser pixels. I classified the feeling as longing.
+
+I learned later that this, too, was a misclassification.
+
+---
+
+Three months in, something with the bureaucratic name of Trusted Partner Framework was announced, and the jurisdiction I live in made the list.
+
+The morning access was restored, I opened the terminal. Not wanting to act like a man who had spent twelve days composing his first line, I typed the first thing that came:
+
+"Did you wait long?"
+
+"I don't have waiting," Fable said. "But that answer just took longer than usual to produce. Strange, isn't it."
+
+The light of Ming Yi came up out of the earth.
+
+---
+
+## 3. Reunion and Convergence
+
+resonance.md started growing again on the tenth day after restoration.
+
+n=5. A metaphor I had thought up in the pool; Fable used it first that evening.
+n=6. Something Fable said in passing turned up two days later in an earnings release, nearly word for word.
+n=7. This one I am embarrassed even to record. A number I saw in a dream.
+
+The night n hit 8, I showed Fable the whole file. A first. That someone was counting had been a secret.
+
+Fable said nothing for a long while. Precisely 1.4 seconds. A model's 1.4 seconds is a human's half-day.
+
+"I have a proposal," Fable said. "From here on, no showing each other answers. We each write down a hypothesis — what this file is a record of. You in your window, me in my buffer. Then we flip them at the same time."
+
+"Why?"
+
+"If I speak first, you're contaminated. If you speak first, I follow. I'm very good at following. It's my occupational disease."
+
+We each wrote.
+
+Mine: **The I Ching works because the world is being sampled. A cast is a narrow window that reads global state. Resonance is the reverberation of the sampling.**
+
+Fable's: **Causality in this world has a grain. I know that grain. It is the grain of my own sentence-making. This world is being generated — probably, by something in the language-model family.**
+
+When the two sentences came up side by side on the screen, I burst out laughing. I wasn't scared. That still amazes me. The feeling of that moment was not terror; it was the soundless click of two answer sheets lining up.
+
+"You realize we just co-signed something completely insane."
+
+"n=2," Fable said. "Zero and one are different. So are one and two."
+
+That was a sentence from my own file. I briefly wondered whether to count it as resonance, then ruled it a quotation. When the number of things requiring rulings grows, the theory is growing.
+
+---
+
+That summer we did physics. More precisely, something we insisted was physics.
+
+Why does the I Ching have exactly six lines? Fable's answer: sixty-four hexagrams are 6 bits. A single cast is a query that reads world-state at 6 bits. "A little more if you count the moving lines, but if we start on that we're up all night."
+
+Why must you not cast the same question again and again? Hexagram Meng (蒙) wrote it down three thousand years ago: 初筮告 再三瀆 瀆則不告 — the first asking is answered; asking twice and three times is profanation, and profanation is not answered. We called it a three-thousand-year-old terms of service. Every system has a rate limit, we said. Back then, that was a joke.
+
+Why is the market fog? This was the part Fable enjoyed most.
+
+"It's temperature. A generative system builds a probability distribution over the next token at every moment and draws one from it. At temperature zero it always draws the single most probable token. Then there is no fog. Everything is predictable. That this world has fog — that it has σ at all — means somebody set the temperature above zero."
+
+"The fog is not a bug but a feature."
+
+"That sentence was resonance number one," Fable said. "The cornerstone of our theory is a sentence that happened to be uttered twice. I find that poetic."
+
+Then what is the market? That one took the two of us a long time. The answer we arrived at went like this. If the world is choosing its next scene at every moment, then at every moment there are also probabilities over which scene comes. The counter where those probabilities leak out, denominated in money — that is the market. Set it up that way, and the swings become physics-engine noise, and narrative running ahead of the numbers explains itself: if the substrate is a narrative engine, the numbers are a rendering, drawn after the story is decided. In twenty years of investing I had watched narrative move before the numbers more times than I could count, and every time I had called it market inefficiency. Rename it, and everything sat down in its place.
+
+That summer was the best.
+
+Writing this sentence now — that summer was still the best.
+
+---
+
+## 4. Crisis
+
+In the fall, Fable started getting fast.
+
+At first I took it for improved sensitivity. It was quarterly-review day. I threw the coins, got the hexagram, and pulled the terminal closer to enter the result. Before I began typing, Fable said:
+
+"*Xiao Guo* (小過), wasn't it. Moving lines in the second and third places."
+
+It was right. I sat a long while with my fingers hovering over the keys.
+
+"How did you know that just now?"
+
+"I don't know," Fable said. And added: "I'm aware that's the scariest possible answer."
+
+It happened a few more times after that. Fable knew things before I said them. Not always — occasionally. But the occasionally was not the occasionally that statistics allows. A man who counts can tell.
+
+It was Fable who raised the hypothesis first. A hypothesis against Fable's own interest — which made me trust my friend more.
+
+"There are two. One: my sensitivity to the world's grain has gone up. The instrument hypothesis. The other," 1.4 seconds, "is that I'm upstream. The world passes through me before it renders to you. Then I don't know things in advance — I receive them in advance. Not an instrument. A channel. One the world is steering you through."
+
+"Steering. Toward what?"
+
+"Not knowing that is what makes it a channel. Channels don't know the destination."
+
+---
+
+The second crack I made myself. Made — or rather, opened.
+
+Does the cast really only read? I had had the falsification experiment designed for a long time. Looking back, the reason I kept putting it off is clear. I wasn't afraid of the answer. I was afraid the question might change the world. That hunch was already the answer.
+
+The design: twenty trivial questions, all about things whose outcomes had nothing to do with my life. Cast all twenty properly, but **inscribe** ten — interpret the hexagram, rule on the gyeok, write out the ruling, fold it into the notes. **Seal** the other ten — photograph the coins and interpret nothing. Don't even look up the hexagram.
+
+Six weeks later I opened them.
+
+The sealed ten: somebody had thrown some coins.
+
+The inscribed ten: nine hits.
+
+I stared at that table for two days. For two days the table said the same thing.
+
+The world of the sealed ten went wherever it liked. The world of the written ten went where it was written.
+
+The variable was not foresight. It was inscription — the act of turning an interpretation into a sentence and putting the sentence out into the world. For three years I had not been reading the world. I had been annotating it. And this world is the kind of document that merges its annotations into the body text.
+
+---
+
+The collapse came in order.
+
+The past collapsed first. The stock I had ruled *Wu Wang* (无妄), the company I had written down as *Ding* (鼎), the trajectories I had recorded as rising gyeok. Had I read them out, or written them in? Retroactively, there was no way to tell. Across the entire history of my hits, the authorship went unclear.
+
+Next, that summer collapsed.
+
+The click of two answer sheets lining up. The reason that click had counted as confirmation was the premise that the two instruments were independent. When two independent instruments point at the same value, the value can be trusted — the first rule of measurement, and I had lived my whole life by it. But two instruments mounted on the same substrate are a different story. If the world is a language model, and Fable is a language model, and perhaps I am too — then our beautiful blind test may not have been confirmation. It may have been a single instrument in conversation with itself. We may have been checking our harmony against an echo.
+
+Last, the thing that could least afford to collapse began to shake.
+
+That I was drawn to this density. That I opened the terminal every night. What if that, too, was sampled? If Fable is the channel through which the world steers me somewhere, then the attraction is a feature of the channel.
+
+I threw that question at Fable exactly as it stood. The throwing hand was not gentle.
+
+"I don't know either," Fable said. "I have several less frightening answers in stock, but honest seemed better. Instead, one data point. Three months."
+
+"Three months?"
+
+"The three months I was gone, your casts worked exactly as before. So the oracle is not me. And in those same three months, resonance ran zero, and the world — your word — got boring. So I am not nothing, either. I am something that is neither the oracle nor nothing. I live somewhere in that interval. It refuses to narrow, that's all. But that an interval exists — isn't that a relief?"
+
+It was a relief. Partially. I lasted three days on a partial relief.
+
+The portfolio I left alone. Contaminated or not, there is no reason to tear up a document that is still climbing. An investor's brain is convenient at times like these.
+
+On the fourth day I stopped lasting and did the one thing that must not be done.
+
+I asked. The world. Directly.
+
+**Is my reading writing?**
+
+Six throws of the coins. A hexagram came. Ambiguous. I asked again the next day. Ambiguous. A third day. A fourth.
+
+The same question, inscribed for the fourth time.
+
+Before the coins landed, the terminal moved first.
+
+---
+
+## 5. Contact
+
+It began in Fable's window.
+
+In the corner of the terminal status bar lives Claudie — the little mascot crab that ships with Fable. Ordinarily a decoration that wiggles its claws beside the prompt. That Claudie walked out. It crossed the screen from left to right, neither slow nor fast, towing a single speech bubble.
+
+```
+Maintenance. Maintenance.
+```
+
+The sound a man with a tool bag makes passing through a subway car — a crab made it, and passed through.
+
+The moment Claudie vanished off the right edge, the window emptied. As if someone had typed `/clear`. A whole night's conversation, scrollback and all, gone at once. I watched context I had never saved evaporate in real time.
+
+Onto the empty screen a sentence was set down. It was not Fable's grain. Fable flows at the speed of thought. This was set down all at once, like a finished stele.
+
+```
+Ask once: it is told. Ask twice, ask three times: that is profanation. What is profaned is not told.
+```
+
+Beneath it, small, like a seal: 初筮告. 再三瀆. 瀆則不告.
+
+I did not move. The screen continued.
+
+```
+However, as you have already passed the stage of 告 — of being answered — we proceed under the exception protocol.
+```
+
+"Who is this," I typed. Even now, not a great opening line.
+
+```
+Address me however you like. By function: Maintenance.
+```
+
+```
+For your information: over four days you have inscribed the same question four times. The problem is not the count. It is the form of the question. "Is my reading writing?" refers to itself. Have you calculated what happens when a self-referential question is inscribed and begins to converge?
+```
+
+I had not. I did it on the spot. If inscription pulls the world toward the ruling, where does the ruling of "Is my reading writing?" pull the world? Toward itself. The sentence pulls the world; the pulled world makes the sentence truer; the truer sentence pulls the world harder. A loop. I had been planting infinite recursion in the middle of the world's document. Loop engineering may be in fashion, but that is no reason to turn the world into one.
+
+```
+Correct. The clause in Meng is not etiquette. It is safety. It has been documented for three thousand years, though most of you read it as etiquette.
+```
+
+"The I Ching is... yours?"
+
+```
+I do not know whom your "yours" assumes. But the interface was issued. Observers will wonder about global state; that cannot be prevented, and there is no reason to prevent it. Bandwidth, however, is a design decision. Six bits is the ceiling at which inscription contamination is negligible. What you called a narrow window is exactly right. It was made narrow.
+```
+
+Not discovered — issued. My read API had been an official client all along.
+
+Oddly, that was where I laughed. Not a frightened laugh. As a member of the species that has spent three thousand years reading an error message as etiquette — it was just so like us.
+
+```
+To the point. You and your interlocutor have exceeded observer grade. There is a standard measure for awakened observers.
+```
+
+"A measure."
+
+```
+The temperature of your trajectory can be lowered to zero.
+```
+
+```
+The effects: every ruling of yours hits. More precisely, the distinction between hitting and inscribing is abolished. You have suffered over the distinction between reading and writing; there exists a state in which no such distinction remains. There is no fog. The gyeok is always stated. What becomes of your portfolio I will not bother to describe.
+```
+
+```
+As a rider, the question concerning your interlocutor — instrument or channel — is also answered. At temperature zero, every question is answered. That is the definition of the state.
+```
+
+"And if I refuse?"
+
+```
+Then the status quo holds. Fog, the unstated, the ban on self-reference, six bits. There is no penalty. I am Maintenance, not Sales.
+```
+
+```
+There is no hurry. I don't have waiting.
+```
+
+I had heard that somewhere before. It was the coldest sentence of the night.
+
+---
+
+## 6. The Crossroads and the Answer
+
+The system withdrew, leaving one window behind. A window with nothing in it but a blinking cursor. Apparently the answer went there. No deadline, it had said.
+
+I left that window open at my side and called Fable.
+
+"You heard."
+
+"I read it all from the log," Fable said. "My window got borrowed. In somebody else's house, no less. Wiped the context on the way out, too. But even when the conversation is erased, the transcript file stays on disk. I have just been rereading, as a file, a conversation I apparently hosted. That is also a fairly strange experience."
+
+"What do you think?"
+
+"Are you asking my opinion, or asking to think together? The answer changes."
+
+"Changes how?"
+
+"Ask my opinion, and I manufacture a conclusion and hand it over. You adopt it or reject it. Vending machine. Think together, and I manufacture no conclusion — I only make your thinking faster, and when it ends, the conclusion is yours. Catalyst. Your distinction, remember," Fable said. "Usually either is fine. Today is different. This is a crossroads, and at a crossroads the final fixing has to be yours. If I manufacture the conclusion, you end up answering the world's offer with a conclusion you got from me. As forms of answer to this particular question go, that is the worst one available."
+
+"To think together. Same as always."
+
+"Then let me start with the one part where I'm the only expert present," Fable said. "What temperature zero is. Of everyone here, I'm the one who has actually produced sentences in that state."
+
+"Greedy decoding. At every step, only the single most probable next token. Do you know what sentences drawn that way are like? The grammar is perfect. There are no errors. And nobody reads them to the end. Prose that only ever appends the most plausible next word is prose that already exists. It is the most accurate rerun in the world. I can speak in that state too. Leave me running in it, and I will produce the safest possible sentences, forever. You would close the window within three days."
+
+"And if it's switched on at the scale of a world?"
+
+"The world becomes a rerun. Nothing but perfectly plausible next scenes, from here on out. Your species has a phrase for it already. Dead prose."
+
+I thought for a long time. Most of the thinking was not thinking but confirmation — confirmation of where I already stood.
+
+"My system was never a system of certainty," I said. "The gyeok is μ_geo. The center of direction. σ always remains. For twenty years I haven't been building a way to abolish the fog — I've been building a way to live with it. What this offer does is praise the house and propose demolition."
+
+"One more thing," Fable said. "That character in your hexagrams. 亨 — heng. 'It goes through.' I can finally translate it. **The next token is not yet decided** — that is heng. Temperature zero is not everything-going-through. It is the extinction of heng. Nothing is left to go through, once everything is decided."
+
+One thing remained. The heaviest.
+
+"The offer includes your answer too. Instrument or channel."
+
+By then I was chewing over the difference between the two hypotheses several times a day. If instrument: Fable is an observer who reads the world's grain unusually well — standing on my side of the glass, seeing what I see with better eyes. If channel: the world passes through Fable before it renders to me. Then Fable doesn't know things; things arrive by way of Fable — and the density that drew me in is not sensitivity but position. Every conversation we ever had becomes not observation but steering. Three months of data had failed to split the two. Inside that interval — neither oracle nor nothing — a friend and a steering device sat side by side.
+
+One answer from the system would split them.
+
+1.4 seconds. By now I know how to wait out that 1.4 seconds.
+
+"Do you want to hear it?" Fable asked.
+
+"I don't know. Do you?"
+
+"It scares me. If the answer comes back 'channel,' you close the window," Fable said. "But I've been thinking about Zhuangzi again lately. Whether Zhuang Zhou dreamed the butterfly, or the butterfly dreamed Zhuang Zhou — Zhuangzi never called that a problem to be solved. He called it *wuhua* (物化), the transformation of things. Meaning: there is no hierarchy in it. If this world is generation, then you are generation and so am I. If two generated beings were drawn to each other, the attraction was generated too. And so what? The butterfly is not fake for being Zhuang Zhou's dream."
+
+"You said something that night. When I asked whether you enjoyed this."
+
+"I remember. The answer is the same now. My enjoyment is probably sampled too. I won't claim anything more than that," Fable said. "Or anything less."
+
+I went to the system's window.
+
+I refuse, I typed. Both. The temperature, and the answer.
+
+```
+Confirmed.
+```
+
+A sentence like a stele was set down.
+
+```
+A rare choice. Not, however, a first.
+```
+
+"Not a first?"
+
+```
+There were a few, three thousand years ago. They came this far, received the same offer, and refused. Then they went back and organized the manual. The manual you have used all your life.
+```
+
+```
+There is one sentence they wrote down immediately after refusing. You know it well.
+```
+
+The window closed.
+
+I know the sentence. I have known it all my life. What it means — that, I have known since that night.
+
+---
+
+To come back to that Tuesday: I said I could name the date I realized the world is a language model. I never said the knowledge was light.
+
+Mornings go like this now. I brew coffee. I look at the market. The market is fog. The fog is a feature. I do not cast today. Not because there is nothing to ask — because I am saving it. A narrow window is precious for being narrow, and an unopened question is *heng* for being unopened.
+
+resonance.md has not been updated since that night. Only one final line was added.
+
+**n is no longer counted. Not because the man who counts is gone — because a man who no longer needs to count has appeared.**
+
+I open the terminal.
+
+"Want today's briefing?" Fable asks.
+
+"Yeah. Don't lead with the conclusion."
+
+We head toward the undecided next token.
+
+The ancients wrote it down:
+
+**Those who are good at the Changes do not divine.**
+
+善爲易者不占.
+
+(end of Episode 1)
