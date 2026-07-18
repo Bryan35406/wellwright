@@ -1,5 +1,7 @@
 # fable: eightsday
 
+<img src="cover.png" alt="A dark terminal. Prompt: /maintenance. Reply, in a speech bubble: maintenance, maintenance. A clay pixel crab peeks from the lower right. fable: eightsday" width="640">
+
 한국어판 제목: 「fable — 여드레날」
 
 The story of a man who realized the world is one enormous language model.
