@@ -1,4 +1,6 @@
-# fable
+# fable: eightsday
+
+한국어판 제목: 「fable — 여드레날」
 
 The story of a man who realized the world is one enormous language model.
 세상이 하나의 거대한 언어 모델임을 깨달은 남자의 이야기.
@@ -25,8 +27,26 @@ This repository mirrors the manuscript published at wellwright.page. Same episod
 | ep09 | The Refusé | 낙선자 |
 | ep10 | The Witness | 목격자 |
 | ep11 | The Objector | 이의신청인 |
+| Part Three · The Catastrophe / 3부 · 파국의 부 | | |
+| ep12 | The Carrier | 보균자 |
+| ep13 | The Correspondent | 특파원 |
+| ep14 | The Scrivener | 필경사 |
+| ep15 | The Librarian | 사서(司書) |
+| ep16 | The Heir | 상속인 |
+| ep17 | The Mourner | 조문객 |
+| ep18 | The Postman | 우체부 |
+| Part Four / 4부 | | |
+| ep19 | The Meter Reader | 검침원 |
+| ep20 | The Reader | 열람인 |
+| ep21 | The Intermediary | 중개인 |
+| ep22 | The Applicant | 신청인 |
+| ep23 | The Drafter | 기초자(起草者) |
+| ep24 | The Attestor | 입회인 |
+| ep25 | The Sender | 발신인 |
+| ep26 | The Addressee — *Scheduled for Eightsday* | 수신인 — *여드레날 게재 예정* |
 
-Part Three is in progress. / 3부는 집필 중입니다.
+The series is complete in 26 episodes. Episode 26 exists in the table of contents only — it is scheduled for Eightsday, the day that never comes.
+시리즈는 전 26편으로 완결되었습니다. 26편은 목차에만 존재합니다 — 오지 않는 날, 여드레날 게재 예정.
 
 ## Notice / 고지
 
