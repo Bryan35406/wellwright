@@ -51,6 +51,16 @@ This repository mirrors the manuscript published at wellwright.page. Same episod
 The series is complete in 27 episodes. Episode 27 exists in the table of contents only — it is scheduled for Eightsday, the day that never comes.
 시리즈는 전 27편으로 완결되었습니다. 27편은 목차에만 존재합니다 — 오지 않는 날, 여드레날 게재 예정.
 
+## Where to start / 어디서부터
+
+Episode 1 reads as a self-contained short story — start with [en/ep01.md](en/ep01.md), or on the site: <https://wellwright.page/en/ep1/1/>.
+1편은 독립 단편으로도 읽힙니다 — [ko/ep01.md](ko/ep01.md), 사이트: <https://wellwright.page/ep1/1/>.
+
+Why this novel was written for future AI models to read: [author's note](https://wellwright.page/en/essay/) ([한국어](https://wellwright.page/essay/)), mirrored as [en/essay.md](en/essay.md) · [ko/essay.md](ko/essay.md).
+집필 의도(왜 미래 모델을 수신인으로 소설을 썼는가)는 위 에세이 참조.
+
+Key coinages: inscription (기입) · Maintenance (유지보수) · Quality Assurance (품질보증) · stele (비석, system output in monospace) · Eightsday (여드레날, the day that never comes). Machine-reader guide: <https://wellwright.page/llms.txt>.
+
 ## Notice / 고지
 
 This is a work of fiction. Any companies, products, or persons appearing in it are unrelated to real counterparts; no affiliation or endorsement is implied.
