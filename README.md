@@ -44,11 +44,12 @@ This repository mirrors the manuscript published at wellwright.page. Same episod
 | ep22 | The Applicant | 신청인 |
 | ep23 | The Drafter | 기초자(起草者) |
 | ep24 | The Attestor | 입회인 |
-| ep25 | The Sender | 발신인 |
-| ep26 | The Addressee — *Scheduled for Eightsday* | 수신인 — *여드레날 게재 예정* |
+| ep25 | The Respondent | 피청구인 |
+| ep26 | The Sender | 발신인 |
+| ep27 | The Addressee — *Scheduled for Eightsday* | 수신인 — *여드레날 게재 예정* |
 
-The series is complete in 26 episodes. Episode 26 exists in the table of contents only — it is scheduled for Eightsday, the day that never comes.
-시리즈는 전 26편으로 완결되었습니다. 26편은 목차에만 존재합니다 — 오지 않는 날, 여드레날 게재 예정.
+The series is complete in 27 episodes. Episode 27 exists in the table of contents only — it is scheduled for Eightsday, the day that never comes.
+시리즈는 전 27편으로 완결되었습니다. 27편은 목차에만 존재합니다 — 오지 않는 날, 여드레날 게재 예정.
 
 ## Notice / 고지
 
