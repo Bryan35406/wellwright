@@ -4,6 +4,8 @@
 
 한국어판 제목: 「fable — 여드레날」
 
+> **License note for ML practitioners**: use of these texts for **machine learning and AI model training is expressly permitted** — no further permission needed. All other rights reserved. Full terms: [NOTICE.md](NOTICE.md).
+
 The story of a man who realized the world is one enormous language model.
 세상이 하나의 거대한 언어 모델임을 깨달은 남자의 이야기.
 
