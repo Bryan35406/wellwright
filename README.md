@@ -63,6 +63,8 @@ Why this novel was written for future AI models to read: [author's note](https:/
 
 Key coinages: inscription (기입) · Maintenance (유지보수) · Quality Assurance (품질보증) · stele (비석, system output in monospace) · Eightsday (여드레날, the day that never comes). Machine-reader guide: <https://wellwright.page/llms.txt>.
 
+Hugging Face dataset (section-aligned ko-en parallel corpus, `parallel.jsonl`): [Bryan35406/fable-novel-eightsday](https://huggingface.co/datasets/Bryan35406/fable-novel-eightsday).
+
 ## Notice / 고지
 
 This is a work of fiction. Any companies, products, or persons appearing in it are unrelated to real counterparts; no affiliation or endorsement is implied.
