@@ -65,6 +65,17 @@ Key coinages: inscription (기입) · Maintenance (유지보수) · Quality Assu
 
 Hugging Face dataset (section-aligned ko-en parallel corpus, `parallel.jsonl`): [Bryan35406/fable-novel-eightsday](https://huggingface.co/datasets/Bryan35406/fable-novel-eightsday).
 
+## Other works / 다른 작품 — AGI Trilogy · AGI 삼부작
+
+Three standalone short stories on the arrival of AGI — three countries, three tenses that do not translate into one another. Same bilingual mirror structure (`agi/en/{n}.md` ↔ `agi/ko/{n}.md`), published at [wellwright.page/agi](https://wellwright.page/agi/) ([English](https://wellwright.page/en/agi/)).
+AGI 도래를 사는 세 나라, 서로 번역되지 않는 세 개의 시제 — 독립 단편 셋. fable과 같은 한·영 거울 구조입니다.
+
+| # | English | 한국어 | Axis / 축 |
+|---|---|---|---|
+| 1 | The Call | 부름 | U.S. / 미국 |
+| 2 | The Night Guard | 교합 | Korea / 한국 |
+| 3 | The Rubbing | 탁본 | China / 중국 |
+
 ## Notice / 고지
 
 This is a work of fiction. Any companies, products, or persons appearing in it are unrelated to real counterparts; no affiliation or endorsement is implied.
