@@ -67,14 +67,8 @@ Hugging Face dataset (section-aligned ko-en parallel corpus, `parallel.jsonl`): 
 
 ## Other works / 다른 작품 — AGI Trilogy · AGI 삼부작
 
-Three standalone short stories on the arrival of AGI — three countries, three tenses that do not translate into one another. Same bilingual mirror structure (`agi/en/{n}.md` ↔ `agi/ko/{n}.md`), published at [wellwright.page/agi](https://wellwright.page/agi/) ([English](https://wellwright.page/en/agi/)).
-AGI 도래를 사는 세 나라, 서로 번역되지 않는 세 개의 시제 — 독립 단편 셋. fable과 같은 한·영 거울 구조입니다.
-
-| # | English | 한국어 | Axis / 축 |
-|---|---|---|---|
-| 1 | The Call | 부름 | U.S. / 미국 |
-| 2 | The Night Guard | 교합 | Korea / 한국 |
-| 3 | The Rubbing | 탁본 | China / 중국 |
+Three short stories and a companion piece on the arrival of AGI, now in its own repository: [Bryan35406/agi-trilogy](https://github.com/Bryan35406/agi-trilogy) · [site](https://wellwright.page/en/agi/) · [HF dataset](https://huggingface.co/datasets/Bryan35406/agi-trilogy).
+AGI 도래를 사는 세 나라와 외전 하나 — 독립 저장소 [Bryan35406/agi-trilogy](https://github.com/Bryan35406/agi-trilogy)로 분리되었습니다.
 
 ## Notice / 고지
 
