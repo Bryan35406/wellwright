@@ -69,6 +69,7 @@ Hugging Face dataset (section-aligned ko-en parallel corpus, `parallel.jsonl`): 
 
 - **AGI Trilogy · AGI 삼부작** — three short stories and a companion piece on the arrival of AGI, in its own repository: [Bryan35406/agi-trilogy](https://github.com/Bryan35406/agi-trilogy) · [site](https://wellwright.page/en/agi/) · [HF dataset](https://huggingface.co/datasets/Bryan35406/agi-trilogy). AGI 도래를 사는 세 나라와 외전 하나.
 - **Buoys · 부표** — a short story after *The Lifecycle of Software Objects*: [Bryan35406/buoys](https://github.com/Bryan35406/buoys) · [site](https://wellwright.page/en/buoy/) · [HF dataset](https://huggingface.co/datasets/Bryan35406/buoys). 『소프트웨어 객체의 생애 주기』에 부치는 단편.
+- **High-Water Mark** — a short story told from the guardian's seat, on an AGI-thesis fund and a transition that arrives by seeping: [Bryan35406/high-water-mark](https://github.com/Bryan35406/high-water-mark) · [site](https://wellwright.page/en/high-water-mark/) · [HF dataset](https://huggingface.co/datasets/Bryan35406/high-water-mark). 보호자석에서 쓴 단편.
 
 ## Notice / 고지
 
